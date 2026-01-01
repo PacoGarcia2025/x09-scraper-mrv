@@ -1,0 +1,674 @@
+[
+  {
+    "nome": "Sao Paulo",
+    "cidade": "Imoveis",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo"
+  },
+  {
+    "nome": "Residencial Amaranto",
+    "cidade": "Aracatuba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-amaranto"
+  },
+  {
+    "nome": "Residencial Atlanta",
+    "cidade": "Aracatuba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-atlanta"
+  },
+  {
+    "nome": "Residencial Ares",
+    "cidade": "Araraquara",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-ares"
+  },
+  {
+    "nome": "Residencial Arita",
+    "cidade": "Araras",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/araras/apartamentos-residencial-arita"
+  },
+  {
+    "nome": "Benissa Residencial",
+    "cidade": "Bauru",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-benissa-residencial"
+  },
+  {
+    "nome": "Mirantes Do Sul   Residencial Mirante Das Brisas",
+    "cidade": "Bauru",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-das-brisas"
+  },
+  {
+    "nome": "Mirantes Do Sul   Residencial Mirante Do Vale",
+    "cidade": "Bauru",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-do-vale"
+  },
+  {
+    "nome": "Residencial Belgrano",
+    "cidade": "Bauru",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-residencial-belgrano"
+  },
+  {
+    "nome": "Residencial Bella Suecia",
+    "cidade": "Botucatu",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/botucatu/apartamentos-residencial-bella-suecia"
+  },
+  {
+    "nome": "City Galleria",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-city-galleria"
+  },
+  {
+    "nome": "Colina Do Sol",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-colina-do-sol"
+  },
+  {
+    "nome": "Cores Da Ilha",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-da-ilha"
+  },
+  {
+    "nome": "Cores Do Mirante",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-do-mirante"
+  },
+  {
+    "nome": "Cores Do Poente",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-do-poente"
+  },
+  {
+    "nome": "Luggo Parque Industrial",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-luggo-parque-industrial"
+  },
+  {
+    "nome": "Residencial Canoas",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canoas"
+  },
+  {
+    "nome": "Residencial Canto Da Mata",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canto-da-mata"
+  },
+  {
+    "nome": "Vem Viver Ares",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-vem-viver-ares"
+  },
+  {
+    "nome": "Residencial Casa De Atenas",
+    "cidade": "Catanduva",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/catanduva/apartamentos-residencial-casa-de-atenas"
+  },
+  {
+    "nome": "Fiorenttino Residence",
+    "cidade": "Franca",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/franca/apartamentos-fiorenttino-residence"
+  },
+  {
+    "nome": "Terrazo Villa Augusta",
+    "cidade": "Guarulhos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/guarulhos/apartamentos-terrazo-villa-augusta"
+  },
+  {
+    "nome": "Mirante Da Colina",
+    "cidade": "Itaquaquecetuba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/itaquaquecetuba/apartamentos-mirante-da-colina"
+  },
+  {
+    "nome": "Residencial Ilha De Malta",
+    "cidade": "Itu",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/itu/apartamentos-residencial-ilha-de-malta"
+  },
+  {
+    "nome": "Reserva Di Medeiros",
+    "cidade": "Jundiai",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/jundiai/apartamentos-reserva-di-medeiros"
+  },
+  {
+    "nome": "Residencial Laranjeiras",
+    "cidade": "Limeira",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-laranjeiras"
+  },
+  {
+    "nome": "Residencial Lunare",
+    "cidade": "Limeira",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-lunare"
+  },
+  {
+    "nome": "Residencial Luz Da Aurora",
+    "cidade": "Limeira",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-luz-da-aurora"
+  },
+  {
+    "nome": "Residencial Morumbi",
+    "cidade": "Marilia",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/marilia/apartamentos-residencial-morumbi"
+  },
+  {
+    "nome": "Residencial Mazarello",
+    "cidade": "Mogi Das Cruzes",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/mogi-das-cruzes/apartamentos-residencial-mazarello"
+  },
+  {
+    "nome": "Residencial Olimpia",
+    "cidade": "Osasco",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/osasco/apartamentos-residencial-olimpia"
+  },
+  {
+    "nome": "Piazza Sirena",
+    "cidade": "Piracicaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-piazza-sirena"
+  },
+  {
+    "nome": "Residencial Piazza Di Milano",
+    "cidade": "Piracicaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-di-milano"
+  },
+  {
+    "nome": "Residencial Piazza Ravena",
+    "cidade": "Piracicaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-ravena"
+  },
+  {
+    "nome": "Residencial Principe De Atenas",
+    "cidade": "Presidente Prudente",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/presidente-prudente/apartamentos-residencial-principe-de-atenas"
+  },
+  {
+    "nome": "Gran Primavera",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-gran-primavera"
+  },
+  {
+    "nome": "Palacio De Estocolmo",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-palacio-de-estocolmo"
+  },
+  {
+    "nome": "Reserva Dos Lirios",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-dos-lirios"
+  },
+  {
+    "nome": "Reserva Sao Jose   Reserva Das Amarilis",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-sao-jose---reserva-das-amarilis"
+  },
+  {
+    "nome": "Residencial Riviera",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-riviera"
+  },
+  {
+    "nome": "Monte Dos Cedros",
+    "cidade": "Sao Carlos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-monte-dos-cedros"
+  },
+  {
+    "nome": "Residencial Monte Das Colinas",
+    "cidade": "Sao Carlos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-residencial-monte-das-colinas"
+  },
+  {
+    "nome": "Parque Rio De Portugal",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-rio-de-portugal"
+  },
+  {
+    "nome": "Parque Sorrento",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-sorrento"
+  },
+  {
+    "nome": "Residencial Grandena",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-grandena"
+  },
+  {
+    "nome": "Residencial Jardim Oliveiras",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-oliveiras"
+  },
+  {
+    "nome": "Residencial Jardim Verona",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-verona"
+  },
+  {
+    "nome": "Campo Do Cerrado",
+    "cidade": "Sao Jose Dos Campos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-campo-do-cerrado"
+  },
+  {
+    "nome": "Residencial Caminho Das Cerejeiras",
+    "cidade": "Sao Jose Dos Campos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-caminho-das-cerejeiras"
+  },
+  {
+    "nome": "Residencial Caminho Dos Jerivas",
+    "cidade": "Sao Jose Dos Campos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-caminho-dos-jerivas"
+  },
+  {
+    "nome": "Residencial Campo Di Espanha",
+    "cidade": "Sao Jose Dos Campos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-campo-di-espanha"
+  },
+  {
+    "nome": "Terrazo Di Dante",
+    "cidade": "Sao Jose Dos Campos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-terrazo-di-dante"
+  },
+  {
+    "nome": "Gran Arena Itaquera",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-gran-arena-itaquera"
+  },
+  {
+    "nome": "Luggo Piqueri",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-luggo-piqueri"
+  },
+  {
+    "nome": "Parque Holandes",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-parque-holandes"
+  },
+  {
+    "nome": "Recanto Da Mata",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-recanto-da-mata"
+  },
+  {
+    "nome": "Recanto Do Limoeiro",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-recanto-do-limoeiro"
+  },
+  {
+    "nome": "Residencial Estoril",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-estoril"
+  },
+  {
+    "nome": "Residencial Ipes",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ipes"
+  },
+  {
+    "nome": "Residencial Liviero",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-liviero"
+  },
+  {
+    "nome": "Residencial Nascente Do Jequitiba",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-do-jequitiba"
+  },
+  {
+    "nome": "Residencial Nascente Pico Dos Marins",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-pico-dos-marins"
+  },
+  {
+    "nome": "Residencial Poente Das Bromelias",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-bromelias"
+  },
+  {
+    "nome": "Residencial Poente Das Orquideas",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-orquideas"
+  },
+  {
+    "nome": "Residencial Poente Do Buriti",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-do-buriti"
+  },
+  {
+    "nome": "Residencial Poente Dos Tucanos",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-dos-tucanos"
+  },
+  {
+    "nome": "Residencial Ritmos Da Barra",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ritmos-da-barra"
+  },
+  {
+    "nome": "Saint Rose",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-rose"
+  },
+  {
+    "nome": "Saint Virginia",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-virginia"
+  },
+  {
+    "nome": "San Miller",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-miller"
+  },
+  {
+    "nome": "San Toledo",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-toledo"
+  },
+  {
+    "nome": "Spazio Saint Francis",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-spazio-saint-francis"
+  },
+  {
+    "nome": "Terrazo Ipiranga",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-ipiranga"
+  },
+  {
+    "nome": "Terrazo Morumbi",
+    "cidade": "Sao Paulo",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-morumbi"
+  },
+  {
+    "nome": "Gran Campolim",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-gran-campolim"
+  },
+  {
+    "nome": "Residencial Don Pagliato",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-don-pagliato"
+  },
+  {
+    "nome": "Residencial Scarpone",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-scarpone"
+  },
+  {
+    "nome": "Residencial Solar Dos Eucaliptos",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-solar-dos-eucaliptos"
+  },
+  {
+    "nome": "Vale Do Sereno   Residencial Campos Dourados",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-campos-dourados"
+  },
+  {
+    "nome": "Vale Do Sereno   Residencial Veredas",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-veredas"
+  },
+  {
+    "nome": "Residencial Alameda Das Andorinhas",
+    "cidade": "Sta Barbara Do Oeste",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-alameda-das-andorinhas"
+  },
+  {
+    "nome": "Residencial Autenticita",
+    "cidade": "Sta Barbara Do Oeste",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-autenticita"
+  },
+  {
+    "nome": "Residencial Sabia",
+    "cidade": "Suzano",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/suzano/apartamentos-residencial-sabia"
+  },
+  {
+    "nome": "Residencial Tibre",
+    "cidade": "Taubate",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tibre"
+  },
+  {
+    "nome": "Residencial Tulle",
+    "cidade": "Taubate",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tulle"
+  },
+  {
+    "nome": "Residencial Terence",
+    "cidade": "Tremembe",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/tremembe/apartamentos-residencial-terence"
+  },
+  {
+    "nome": "Vistabela Residence",
+    "cidade": "Vargem Grande Paulista",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/vargem-grande-paulista/apartamentos-vistabela-residence"
+  },
+  {
+    "nome": "Residencial Solar Da Ilha",
+    "cidade": "Votorantim",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/votorantim/apartamentos-residencial-solar-da-ilha"
+  },
+  {
+    "nome": "Caminhos Dos Ypes",
+    "cidade": "Araraquara",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/araraquara/casas-caminhos-dos-ypes"
+  },
+  {
+    "nome": "Residencial Green Park",
+    "cidade": "Botucatu",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/botucatu/casas-residencial-green-park"
+  },
+  {
+    "nome": "Jardim Morada Do Verde",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-jardim-morada-do-verde"
+  },
+  {
+    "nome": "Reserva Real   Palacio De Turim",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-reserva-real---palacio-de-turim"
+  },
+  {
+    "nome": "Residencial Canto Das Andorinhas",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-residencial-canto-das-andorinhas"
+  },
+  {
+    "nome": "Eparque Rio Preto Leste 2",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-2"
+  },
+  {
+    "nome": "Eparque Rio Preto Leste Modulo 3",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-modulo-3"
+  },
+  {
+    "nome": "Parque Lombardia",
+    "cidade": "Sao Jose Do Rio Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-parque-lombardia"
+  },
+  {
+    "nome": "Reserva Floratta",
+    "cidade": "Bauru",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/bauru/lotes-reserva-floratta"
+  },
+  {
+    "nome": "Residencial Vila America",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-residencial-vila-america"
+  },
+  {
+    "nome": "Smart Urba Dunlop",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-smart-urba-dunlop"
+  },
+  {
+    "nome": "Smart Urba Vila Profeta",
+    "cidade": "Campinas",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-smart-urba-vila-profeta"
+  },
+  {
+    "nome": "Reserva Monte Mor",
+    "cidade": "Hortolandia",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/hortolandia/lotes-reserva-monte-mor"
+  },
+  {
+    "nome": "Smart Urba Esmeraldas",
+    "cidade": "Marilia",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/marilia/lotes-smart-urba-esmeraldas"
+  },
+  {
+    "nome": "Alto Sao Fernando",
+    "cidade": "Paulinia",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/paulinia/lotes-alto-sao-fernando"
+  },
+  {
+    "nome": "Bem Viver Prudente",
+    "cidade": "Presidente Prudente",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/presidente-prudente/lotes-bem-viver-prudente"
+  },
+  {
+    "nome": "Reserva Macauba",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-reserva-macauba"
+  },
+  {
+    "nome": "Reserva Regatas",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-reserva-regatas"
+  },
+  {
+    "nome": "Smart Urba Ribeirao",
+    "cidade": "Ribeirao Preto",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-smart-urba-ribeirao"
+  },
+  {
+    "nome": "Residencial Progresso",
+    "cidade": "Sao Carlos",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/lotes-residencial-progresso"
+  },
+  {
+    "nome": "Jardim Sao Roque",
+    "cidade": "Sorocaba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/lotes-jardim-sao-roque"
+  },
+  {
+    "nome": "Smart Urba Reserva",
+    "cidade": "Votorantim",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/votorantim/lotes-smart-urba-reserva"
+  },
+  {
+    "nome": "Lojas",
+    "cidade": "Imoveis",
+    "preco_estimado": "Consulte",
+    "link": "https://www2.mrv.com.br/imoveis/lojas"
+  },
+  {
+    "nome": "Brasileiros No Exterior",
+    "cidade": "Imoveis",
+    "preco_estimado": "Consulte",
+    "link": "https://www2.mrv.com.br/imoveis/brasileiros-no-exterior"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "x09-scraper-mrv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacoGarcia2025/x09-scraper-mrv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacoGarcia2025/x09-scraper-mrv/issues"
+  },
+  "homepage": "https://github.com/PacoGarcia2025/x09-scraper-mrv#readme",
+  "dependencies": {
+    "puppeteer": "^24.34.0"
+  }
+}
