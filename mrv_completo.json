@@ -1,0 +1,36 @@
+[
+  {
+    "nome": "Sao Paulo",
+    "cidade": "Imoveis",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo"
+  },
+  {
+    "nome": "Residencial Amaranto",
+    "cidade": "Aracatuba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-amaranto",
+    "preco_real": "Sob Consulta"
+  },
+  {
+    "nome": "Residencial Atlanta",
+    "cidade": "Aracatuba",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-atlanta",
+    "preco_real": "Sob Consulta"
+  },
+  {
+    "nome": "Residencial Ares",
+    "cidade": "Araraquara",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-ares",
+    "preco_real": "Sob Consulta"
+  },
+  {
+    "nome": "Residencial Arita",
+    "cidade": "Araras",
+    "preco_estimado": "Consulte",
+    "link": "https://www.mrv.com.br/imoveis/sao-paulo/araras/apartamentos-residencial-arita",
+    "preco_real": "Sob Consulta"
+  }
+]

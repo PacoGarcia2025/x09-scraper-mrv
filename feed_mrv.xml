@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+  <listing>
+    <id>MRV-aranto1</id>
+    <titulo>Residencial Amaranto</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Aracatuba</cidade>
+    <estado>SP</estado>
+    <bairro>bairro TV</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-amaranto</url>
+    <descricao>Oportunidade MRV: Residencial Amaranto. Localizado em Aracatuba, bairro bairro TV. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PPCFACHADAPORTARIANOTURNA_20-08-2020.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-tlanta2</id>
+    <titulo>Residencial Atlanta</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Aracatuba</cidade>
+    <estado>SP</estado>
+    <bairro>Petit Trianon</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-atlanta</url>
+    <descricao>Oportunidade MRV: Residencial Atlanta. Localizado em Aracatuba, bairro Petit Trianon. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_GUARITA_RFA1A1_20240223a98d9f37-1b26-4cf9-b63a-6079679a4650.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-l-ares3</id>
+    <titulo>Residencial Ares</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Araraquara</cidade>
+    <estado>SP</estado>
+    <bairro>Vila Xavier</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-ares</url>
+    <descricao>Oportunidade MRV: Residencial Ares. Localizado em Araraquara, bairro Vila Xavier. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_VARANDA_DIURNA.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--arita4</id>
+    <titulo>Residencial Arita</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Araras</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Abolição</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/araras/apartamentos-residencial-arita</url>
+    <descricao>Oportunidade MRV: Residencial Arita. Localizado em Araras, bairro Jardim Abolição. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/3868/RESIDENCIALALARITA_FESTAS_V02.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-encial5</id>
+    <titulo>Benissa Residencial</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Bauru</cidade>
+    <estado>SP</estado>
+    <bairro>Alto Paraíso</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-benissa-residencial</url>
+    <descricao>Oportunidade MRV: Benissa Residencial. Localizado em Bauru, bairro Alto Paraíso. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_GUARITA_ENTARDECER_BENISSA_RESIDENCIAL_2024-09-1925ce2f32-0c33-41cc-b3ec-896c37efa778.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-brisas6</id>
+    <titulo>Mirantes Do Sul   Residencial Mirante Das Brisas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Bauru</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-das-brisas</url>
+    <descricao>Oportunidade MRV: Mirantes Do Sul   Residencial Mirante Das Brisas. Localizado em Bauru, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_PISCINA_RF_2025-03-204e202a46-2c6c-4ef8-93ca-0c8907ab6f59.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-o-vale7</id>
+    <titulo>Mirantes Do Sul   Residencial Mirante Do Vale</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Bauru</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-do-vale</url>
+    <descricao>Oportunidade MRV: Mirantes Do Sul   Residencial Mirante Do Vale. Localizado em Bauru, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_PISCINA_RF_2024-09-18804eaf65-4612-4480-a1de-97c936e8245d.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-lgrano8</id>
+    <titulo>Residencial Belgrano</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Bauru</cidade>
+    <estado>SP</estado>
+    <bairro>Parque Água Comprida</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-residencial-belgrano</url>
+    <descricao>Oportunidade MRV: Residencial Belgrano. Localizado em Bauru, bairro Parque Água Comprida. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_VARANDA.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-suecia9</id>
+    <titulo>Residencial Bella Suecia</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Botucatu</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Cristina</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/botucatu/apartamentos-residencial-bella-suecia</url>
+    <descricao>Oportunidade MRV: Residencial Bella Suecia. Localizado em Botucatu, bairro Jardim Cristina. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PPCSALA-COZINHA_14-12-2023.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-lleria10</id>
+    <titulo>City Galleria</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>Galleria</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-city-galleria</url>
+    <descricao>Oportunidade MRV: City Galleria. Localizado em Campinas, bairro Galleria. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_GUARITA_04_20254541b277-6f61-49e3-8789-bc297e2004a4.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-do-sol11</id>
+    <titulo>Colina Do Sol</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-colina-do-sol</url>
+    <descricao>Oportunidade MRV: Colina Do Sol. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4391/MRV_COLINA_DO_SOL_PPC_TORRE_FINAL_2024-10-25c853cbc1-e5c3-43ba-a52d-d5dfdaba6c27.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-a-ilha12</id>
+    <titulo>Cores Da Ilha</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-da-ilha</url>
+    <descricao>Oportunidade MRV: Cores Da Ilha. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PPC_GUARITA_FINAL_2025.07.31.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-irante13</id>
+    <titulo>Cores Do Mirante</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-do-mirante</url>
+    <descricao>Oportunidade MRV: Cores Do Mirante. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload-conhecer/breve-lancamento/card/breve-lancamento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-poente14</id>
+    <titulo>Cores Do Poente</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-do-poente</url>
+    <descricao>Oportunidade MRV: Cores Do Poente. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_GUARITA-ENTARDECER_FINAL.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-strial15</id>
+    <titulo>Luggo Parque Industrial</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-luggo-parque-industrial</url>
+    <descricao>Oportunidade MRV: Luggo Parque Industrial. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0005_Luggo_Drone_04.05.23.webp</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-canoas16</id>
+    <titulo>Residencial Canoas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Morumbi</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canoas</url>
+    <descricao>Oportunidade MRV: Residencial Canoas. Localizado em Campinas, bairro Jardim Morumbi. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PPC_GUARITA_FINAL_2024.07.1852171823-5c8a-4a46-bac4-edb4eaddf21a.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-a-mata17</id>
+    <titulo>Residencial Canto Da Mata</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>Matão</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canto-da-mata</url>
+    <descricao>Oportunidade MRV: Residencial Canto Da Mata. Localizado em Campinas, bairro Matão. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-PISCINA_IMPRESSAO_150DPI.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-r-ares18</id>
+    <titulo>Vem Viver Ares</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-vem-viver-ares</url>
+    <descricao>Oportunidade MRV: Vem Viver Ares. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/imagens/uploadImagesTEST/Breve%20Lan%C3%A7amento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-atenas19</id>
+    <titulo>Residencial Casa De Atenas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Catanduva</cidade>
+    <estado>SP</estado>
+    <bairro>Parque Glória</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/catanduva/apartamentos-residencial-casa-de-atenas</url>
+    <descricao>Oportunidade MRV: Residencial Casa De Atenas. Localizado em Catanduva, bairro Parque Glória. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_VARANDA_EXTERNA.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-idence20</id>
+    <titulo>Fiorenttino Residence</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Franca</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Noêmia</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/franca/apartamentos-fiorenttino-residence</url>
+    <descricao>Oportunidade MRV: Fiorenttino Residence. Localizado em Franca, bairro Jardim Noêmia. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCVARANDA_16-02-2022.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-ugusta21</id>
+    <titulo>Terrazo Villa Augusta</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Guarulhos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/guarulhos/apartamentos-terrazo-villa-augusta</url>
+    <descricao>Oportunidade MRV: Terrazo Villa Augusta. Localizado em Guarulhos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILA-AUGUSTA_PE_PISCINA-DIURNA_2022_06_15.JPG</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-colina22</id>
+    <titulo>Mirante Da Colina</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Itaquaquecetuba</cidade>
+    <estado>SP</estado>
+    <bairro>Mandi</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/itaquaquecetuba/apartamentos-mirante-da-colina</url>
+    <descricao>Oportunidade MRV: Mirante Da Colina. Localizado em Itaquaquecetuba, bairro Mandi. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4654/MIRANTEDACOLINA_PPC_GUARITA_FI10cdad2a-e6cf-4bbf-9712-9a6855557b0d.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--malta23</id>
+    <titulo>Residencial Ilha De Malta</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Itu</cidade>
+    <estado>SP</estado>
+    <bairro>Madre Paulina</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/itu/apartamentos-residencial-ilha-de-malta</url>
+    <descricao>Oportunidade MRV: Residencial Ilha De Malta. Localizado em Itu, bairro Madre Paulina. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_SALA-E-COZINHA_FINAL_20240123.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-deiros24</id>
+    <titulo>Reserva Di Medeiros</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Jundiai</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/jundiai/apartamentos-reserva-di-medeiros</url>
+    <descricao>Oportunidade MRV: Reserva Di Medeiros. Localizado em Jundiai, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_PISCINA_1_FINAL2b46a932-0d17-4bbb-a1df-8d7c455e3c31.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-jeiras25</id>
+    <titulo>Residencial Laranjeiras</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Limeira</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-laranjeiras</url>
+    <descricao>Oportunidade MRV: Residencial Laranjeiras. Localizado em Limeira, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PPC_FACHADAAMANHECER_2024_02_01.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-lunare26</id>
+    <titulo>Residencial Lunare</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Limeira</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-lunare</url>
+    <descricao>Oportunidade MRV: Residencial Lunare. Localizado em Limeira, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_PISCINA_EF7c57b65c-aba4-440c-af38-bb6af3cf0d48.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-aurora27</id>
+    <titulo>Residencial Luz Da Aurora</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Limeira</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-luz-da-aurora</url>
+    <descricao>Oportunidade MRV: Residencial Luz Da Aurora. Localizado em Limeira, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_PORTARIA_RF_2024-10-0845f6ad7e-2f13-485c-ac16-ad6b0b489858.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-orumbi28</id>
+    <titulo>Residencial Morumbi</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Marilia</cidade>
+    <estado>SP</estado>
+    <bairro>Parque das Vivendas</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/marilia/apartamentos-residencial-morumbi</url>
+    <descricao>Oportunidade MRV: Residencial Morumbi. Localizado em Marilia, bairro Parque das Vivendas. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_GUARITA_2023-05-16.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-arello29</id>
+    <titulo>Residencial Mazarello</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Mogi Das Cruzes</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/mogi-das-cruzes/apartamentos-residencial-mazarello</url>
+    <descricao>Oportunidade MRV: Residencial Mazarello. Localizado em Mogi Das Cruzes, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIAL-MAZARELLO_PPC_GUARITA_FINAL_2024.06.03690e2043-00b9-44b0-a407-75131da8b89d.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-limpia30</id>
+    <titulo>Residencial Olimpia</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Osasco</cidade>
+    <estado>SP</estado>
+    <bairro>Santa Maria</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/osasco/apartamentos-residencial-olimpia</url>
+    <descricao>Oportunidade MRV: Residencial Olimpia. Localizado em Osasco, bairro Santa Maria. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/QUARTO_HR.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-sirena31</id>
+    <titulo>Piazza Sirena</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Piracicaba</cidade>
+    <estado>SP</estado>
+    <bairro>Santa Terezinha</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-piazza-sirena</url>
+    <descricao>Oportunidade MRV: Piazza Sirena. Localizado em Piracicaba, bairro Santa Terezinha. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_GUARITA_2023-08-30.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-milano32</id>
+    <titulo>Residencial Piazza Di Milano</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Piracicaba</cidade>
+    <estado>SP</estado>
+    <bairro>Vila Industrial</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-di-milano</url>
+    <descricao>Oportunidade MRV: Residencial Piazza Di Milano. Localizado em Piracicaba, bairro Vila Industrial. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_PORTARIA_NOITE.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-ravena33</id>
+    <titulo>Residencial Piazza Ravena</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Piracicaba</cidade>
+    <estado>SP</estado>
+    <bairro>Piracicamirim</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-ravena</url>
+    <descricao>Oportunidade MRV: Residencial Piazza Ravena. Localizado em Piracicaba, bairro Piracicamirim. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4334/MRV_PRNCIPE-DE-ATENAS_VARANDA_IMPRESSO_150DPI.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-atenas34</id>
+    <titulo>Residencial Principe De Atenas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Presidente Prudente</cidade>
+    <estado>SP</estado>
+    <bairro>Residencial Monte Rey</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/presidente-prudente/apartamentos-residencial-principe-de-atenas</url>
+    <descricao>Oportunidade MRV: Residencial Principe De Atenas. Localizado em Presidente Prudente, bairro Residencial Monte Rey. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4334/MRV_PRNCIPE-DE-ATENAS-FACHADA-TARDE_IMPRESSO_150DPI.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-mavera35</id>
+    <titulo>Gran Primavera</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-gran-primavera</url>
+    <descricao>Oportunidade MRV: Gran Primavera. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_GUARITA_EF.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-ocolmo36</id>
+    <titulo>Palacio De Estocolmo</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-palacio-de-estocolmo</url>
+    <descricao>Oportunidade MRV: Palacio De Estocolmo. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO-FACHADA_TARDE.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-lirios37</id>
+    <titulo>Reserva Dos Lirios</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-dos-lirios</url>
+    <descricao>Oportunidade MRV: Reserva Dos Lirios. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_SALA_FINAL_2024-003-08.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-arilis38</id>
+    <titulo>Reserva Sao Jose   Reserva Das Amarilis</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>Recreio das Acácias</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-sao-jose---reserva-das-amarilis</url>
+    <descricao>Oportunidade MRV: Reserva Sao Jose   Reserva Das Amarilis. Localizado em Ribeirao Preto, bairro Recreio das Acácias. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_VARANDA_DENTRO_HR.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-iviera39</id>
+    <titulo>Residencial Riviera</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-riviera</url>
+    <descricao>Oportunidade MRV: Residencial Riviera. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_PISCINA_2023_12_22.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-cedros40</id>
+    <titulo>Monte Dos Cedros</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Carlos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-monte-dos-cedros</url>
+    <descricao>Oportunidade MRV: Monte Dos Cedros. Localizado em Sao Carlos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCVARANDA_10-11-2022.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-olinas41</id>
+    <titulo>Residencial Monte Das Colinas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Carlos</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Botafogo</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-residencial-monte-das-colinas</url>
+    <descricao>Oportunidade MRV: Residencial Monte Das Colinas. Localizado em Sao Carlos, bairro Jardim Botafogo. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA_MONTE-DAS-COLINAS_PPC_PISCINA_TIROFINAL_24.05.11.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rtugal42</id>
+    <titulo>Parque Rio De Portugal</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-rio-de-portugal</url>
+    <descricao>Oportunidade MRV: Parque Rio De Portugal. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_VARANDAEXTERNA_V02.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rrento43</id>
+    <titulo>Parque Sorrento</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-sorrento</url>
+    <descricao>Oportunidade MRV: Parque Sorrento. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCVARANDA_17-10-2023.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-andena44</id>
+    <titulo>Residencial Grandena</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-grandena</url>
+    <descricao>Oportunidade MRV: Residencial Grandena. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_GUARITA-ENTARDECER_2023_05_31.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-veiras45</id>
+    <titulo>Residencial Jardim Oliveiras</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-oliveiras</url>
+    <descricao>Oportunidade MRV: Residencial Jardim Oliveiras. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIALJARDIMOLIVEIRAS_PPCb8ef5d66-ba29-4de5-b6e0-c0da00733b4e.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-verona46</id>
+    <titulo>Residencial Jardim Verona</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-verona</url>
+    <descricao>Oportunidade MRV: Residencial Jardim Verona. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_PISCINAENTARDECER_V02.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-errado47</id>
+    <titulo>Campo Do Cerrado</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Dos Campos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-campo-do-cerrado</url>
+    <descricao>Oportunidade MRV: Campo Do Cerrado. Localizado em Sao Jose Dos Campos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/imagens/uploadImagesTEST/Breve%20Lan%C3%A7amento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-jeiras48</id>
+    <titulo>Residencial Caminho Das Cerejeiras</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Dos Campos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-caminho-das-cerejeiras</url>
+    <descricao>Oportunidade MRV: Residencial Caminho Das Cerejeiras. Localizado em Sao Jose Dos Campos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4800/16_MRV_CC_PISCINA_EF0fda96bf-3f5e-483a-905f-459effb0dc3a.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-erivas49</id>
+    <titulo>Residencial Caminho Dos Jerivas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Dos Campos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-caminho-dos-jerivas</url>
+    <descricao>Oportunidade MRV: Residencial Caminho Dos Jerivas. Localizado em Sao Jose Dos Campos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4774/10_MRV_CJ_FACHADA_GERAL_EF757c90b0-546d-4a30-ab8e-3bd87a15e950.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-spanha50</id>
+    <titulo>Residencial Campo Di Espanha</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Dos Campos</cidade>
+    <estado>SP</estado>
+    <bairro>Bosque dos Ipês</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-campo-di-espanha</url>
+    <descricao>Oportunidade MRV: Residencial Campo Di Espanha. Localizado em Sao Jose Dos Campos, bairro Bosque dos Ipês. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_PISCINA_RF_2025-02-04d9d51cc2-6894-4400-a0f6-5af023b458bc.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--dante51</id>
+    <titulo>Terrazo Di Dante</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Dos Campos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-terrazo-di-dante</url>
+    <descricao>Oportunidade MRV: Terrazo Di Dante. Localizado em Sao Jose Dos Campos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCVARANDA_02-08-2022.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-aquera52</id>
+    <titulo>Gran Arena Itaquera</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-gran-arena-itaquera</url>
+    <descricao>Oportunidade MRV: Gran Arena Itaquera. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4615/GRAN-ARENA-ITAQUERA_PPC-INSER%C3%87O_2024-06-28-(1)-16912e7f-0b28-466f-9335-15ab708b9bf5.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-iqueri53</id>
+    <titulo>Luggo Piqueri</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-luggo-piqueri</url>
+    <descricao>Oportunidade MRV: Luggo Piqueri. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4359/20220520083757_LuggoPiqueri_1.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-landes54</id>
+    <titulo>Parque Holandes</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>Cupecê</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-parque-holandes</url>
+    <descricao>Oportunidade MRV: Parque Holandes. Localizado em Sao Paulo, bairro Cupecê. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_INTERNA_VARANDA-APTO-60322e4bb65-12b0-430c-8c63-bea158d1b31c.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-a-mata55</id>
+    <titulo>Recanto Da Mata</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>USP Leste</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-recanto-da-mata</url>
+    <descricao>Oportunidade MRV: Recanto Da Mata. Localizado em Sao Paulo, bairro USP Leste. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVARECANTODAMATA_PPC_TORRE_FI06152990-b674-48bb-b601-89845ddf1b69.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-moeiro56</id>
+    <titulo>Recanto Do Limoeiro</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-recanto-do-limoeiro</url>
+    <descricao>Oportunidade MRV: Recanto Do Limoeiro. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4781/MRV_RECANTO-LIMOEIRO_PPC_FACHADA_FINAL_2025.0609ba07f3-20d5-4773-8e30-090df776d8a7.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-storil57</id>
+    <titulo>Residencial Estoril</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-estoril</url>
+    <descricao>Oportunidade MRV: Residencial Estoril. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_GUARITA_2024.10.08a194a9c2-2693-4ea8-af27-7dd67f339ae7.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-l-ipes58</id>
+    <titulo>Residencial Ipes</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ipes</url>
+    <descricao>Oportunidade MRV: Residencial Ipes. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4678/MRV_RESIDENCIAL_IPES_PPC_GUARITA_2025.02.26c45ab324-3147-4a43-81a0-4cce96210fad.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-iviero59</id>
+    <titulo>Residencial Liviero</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>Sacomã</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-liviero</url>
+    <descricao>Oportunidade MRV: Residencial Liviero. Localizado em Sao Paulo, bairro Sacomã. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-GUARITA_VF_2024-05-16.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-uitiba60</id>
+    <titulo>Residencial Nascente Do Jequitiba</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-do-jequitiba</url>
+    <descricao>Oportunidade MRV: Residencial Nascente Do Jequitiba. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_FACHADA_GUARITA_EF7cb20cb1-d726-488f-b9ee-47753fd6fa0a.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-marins61</id>
+    <titulo>Residencial Nascente Pico Dos Marins</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-pico-dos-marins</url>
+    <descricao>Oportunidade MRV: Residencial Nascente Pico Dos Marins. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/imagens/uploadImagesTEST/Breve%20Lan%C3%A7amento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-melias62</id>
+    <titulo>Residencial Poente Das Bromelias</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-bromelias</url>
+    <descricao>Oportunidade MRV: Residencial Poente Das Bromelias. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_GUARITA_EF245caecd-70fe-4191-bfef-a96d1d765614.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-uideas63</id>
+    <titulo>Residencial Poente Das Orquideas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-orquideas</url>
+    <descricao>Oportunidade MRV: Residencial Poente Das Orquideas. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PISCINA_EF_2024_03_19.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-buriti64</id>
+    <titulo>Residencial Poente Do Buriti</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-do-buriti</url>
+    <descricao>Oportunidade MRV: Residencial Poente Do Buriti. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4558/POENTE-DO-BURITI_GUARITA_EF_2024_03_25.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-ucanos65</id>
+    <titulo>Residencial Poente Dos Tucanos</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-dos-tucanos</url>
+    <descricao>Oportunidade MRV: Residencial Poente Dos Tucanos. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_FACHADA_GUARITA_EFa4c80cea-39e1-426f-82ad-9157b57fffaf.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--barra66</id>
+    <titulo>Residencial Ritmos Da Barra</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ritmos-da-barra</url>
+    <descricao>Oportunidade MRV: Residencial Ritmos Da Barra. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_VARANDA_2023_07_05.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-t-rose67</id>
+    <titulo>Saint Rose</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>Sapopemba</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-rose</url>
+    <descricao>Oportunidade MRV: Saint Rose. Localizado em Sao Paulo, bairro Sapopemba. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/SAINT_ROSE_FACHADA_T0415d9c4dd0-13fa-4214-a7a2-a56cf51356ee.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rginia68</id>
+    <titulo>Saint Virginia</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-virginia</url>
+    <descricao>Oportunidade MRV: Saint Virginia. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_GUARITA-ENTARDECER_2025_06_1883efc26c-5baa-4486-a56c-cf86f35bb7c4.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-miller69</id>
+    <titulo>San Miller</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-miller</url>
+    <descricao>Oportunidade MRV: San Miller. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SM_PPC_PORTARIA_FINAL1255b47b6-f3b9-40ae-827e-59fb534bb425.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-toledo70</id>
+    <titulo>San Toledo</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-toledo</url>
+    <descricao>Oportunidade MRV: San Toledo. Localizado em Sao Paulo, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload-conhecer/breve-lancamento/card/breve-lancamento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rancis71</id>
+    <titulo>Spazio Saint Francis</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>São Mateus</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-spazio-saint-francis</url>
+    <descricao>Oportunidade MRV: Spazio Saint Francis. Localizado em Sao Paulo, bairro São Mateus. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload-conhecer/breve-lancamento/card/breve-lancamento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-iranga72</id>
+    <titulo>Terrazo Ipiranga</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>Ipiranga</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-ipiranga</url>
+    <descricao>Oportunidade MRV: Terrazo Ipiranga. Localizado em Sao Paulo, bairro Ipiranga. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_GUARITA-DIURNA_2022_02_04.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-orumbi73</id>
+    <titulo>Terrazo Morumbi</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Paulo</cidade>
+    <estado>SP</estado>
+    <bairro>Morumbi</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-morumbi</url>
+    <descricao>Oportunidade MRV: Terrazo Morumbi. Localizado em Sao Paulo, bairro Morumbi. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZOMORUMBI_SALA.JPG</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-mpolim74</id>
+    <titulo>Gran Campolim</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-gran-campolim</url>
+    <descricao>Oportunidade MRV: Gran Campolim. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_VARANDA_RF.JPG</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-gliato75</id>
+    <titulo>Residencial Don Pagliato</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-don-pagliato</url>
+    <descricao>Oportunidade MRV: Residencial Don Pagliato. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCPORTARIA_2024-07-053ebe8217-3514-4ae7-bd48-ede6bc0bd3c1.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-arpone76</id>
+    <titulo>Residencial Scarpone</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-scarpone</url>
+    <descricao>Oportunidade MRV: Residencial Scarpone. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_GUARITA_HR3638755e-3eda-48b8-b6cf-815cc7483aee.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-liptos77</id>
+    <titulo>Residencial Solar Dos Eucaliptos</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-solar-dos-eucaliptos</url>
+    <descricao>Oportunidade MRV: Residencial Solar Dos Eucaliptos. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_LIVING_RF_2025-09-12.JPG</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-urados78</id>
+    <titulo>Vale Do Sereno   Residencial Campos Dourados</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-campos-dourados</url>
+    <descricao>Oportunidade MRV: Vale Do Sereno   Residencial Campos Dourados. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_PISCINA1_RF2_2025-07-08c3fcf4bd-c827-4511-b340-cd237a43be51.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-eredas79</id>
+    <titulo>Vale Do Sereno   Residencial Veredas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-veredas</url>
+    <descricao>Oportunidade MRV: Vale Do Sereno   Residencial Veredas. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_VARANDA02_2023_01_27.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rinhas80</id>
+    <titulo>Residencial Alameda Das Andorinhas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sta Barbara Do Oeste</cidade>
+    <estado>SP</estado>
+    <bairro>Santa Rita</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-alameda-das-andorinhas</url>
+    <descricao>Oportunidade MRV: Residencial Alameda Das Andorinhas. Localizado em Sta Barbara Do Oeste, bairro Santa Rita. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_VARANDA-EXTERNA_hr.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-ticita81</id>
+    <titulo>Residencial Autenticita</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sta Barbara Do Oeste</cidade>
+    <estado>SP</estado>
+    <bairro>Cidade Nova</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-autenticita</url>
+    <descricao>Oportunidade MRV: Residencial Autenticita. Localizado em Sta Barbara Do Oeste, bairro Cidade Nova. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_GUARITA_FINAL_2024_08_2654d6680a-256e-451b-8666-c3c02ce4d1b7.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--sabia82</id>
+    <titulo>Residencial Sabia</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Suzano</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/suzano/apartamentos-residencial-sabia</url>
+    <descricao>Oportunidade MRV: Residencial Sabia. Localizado em Suzano, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_AREA%20PRIVATIVA_28-07-2025.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--tibre83</id>
+    <titulo>Residencial Tibre</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Taubate</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tibre</url>
+    <descricao>Oportunidade MRV: Residencial Tibre. Localizado em Taubate, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_PISCINA_FI2a932ac1-5134-4c08-b3fd-61a6fc439806.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--tulle84</id>
+    <titulo>Residencial Tulle</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Taubate</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tulle</url>
+    <descricao>Oportunidade MRV: Residencial Tulle. Localizado em Taubate, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/imagens/uploadImagesTEST/Breve%20Lan%C3%A7amento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-erence85</id>
+    <titulo>Residencial Terence</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Tremembe</cidade>
+    <estado>SP</estado>
+    <bairro>Vera Cruz</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/tremembe/apartamentos-residencial-terence</url>
+    <descricao>Oportunidade MRV: Residencial Terence. Localizado em Tremembe, bairro Vera Cruz. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCSALAAPARTAMENTOTIPO_03-08-2023.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-idence86</id>
+    <titulo>Vistabela Residence</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Vargem Grande Paulista</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/vargem-grande-paulista/apartamentos-vistabela-residence</url>
+    <descricao>Oportunidade MRV: Vistabela Residence. Localizado em Vargem Grande Paulista, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4787/VISTABELA-RESIDENCE_NOVA-FACHADA_PPC_GUARITA_2025.08.05f1afb269-145f-440e-bd77-648895995cf0.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-a-ilha87</id>
+    <titulo>Residencial Solar Da Ilha</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Votorantim</cidade>
+    <estado>SP</estado>
+    <bairro>Jataí</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/votorantim/apartamentos-residencial-solar-da-ilha</url>
+    <descricao>Oportunidade MRV: Residencial Solar Da Ilha. Localizado em Votorantim, bairro Jataí. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_INTERNA_SALA_FINAL-2024-01-31.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-s-ypes88</id>
+    <titulo>Caminhos Dos Ypes</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Araraquara</cidade>
+    <estado>SP</estado>
+    <bairro>Iguatemi</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/casas-caminhos-dos-ypes</url>
+    <descricao>Oportunidade MRV: Caminhos Dos Ypes. Localizado em Araraquara, bairro Iguatemi. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHAO_DOS_YPES_FACHADA_NOITE_RFA1.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-n-park89</id>
+    <titulo>Residencial Green Park</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Botucatu</cidade>
+    <estado>SP</estado>
+    <bairro>Vale do Sol</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/botucatu/casas-residencial-green-park</url>
+    <descricao>Oportunidade MRV: Residencial Green Park. Localizado em Botucatu, bairro Vale do Sol. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/PPC_RESIDENCIALGREENPARK_VIA_F21e6f1a4-2d97-432b-b24a-910e59b35ce8.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--verde90</id>
+    <titulo>Jardim Morada Do Verde</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>Ribeirão Verde</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-jardim-morada-do-verde</url>
+    <descricao>Oportunidade MRV: Jardim Morada Do Verde. Localizado em Ribeirao Preto, bairro Ribeirão Verde. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4710/JARDIM-MORADA-VERDE_PPC_UNIDADE-HABITACIONAL_30.04af1751e0-ea48-4215-b5e5-6d53ea9826ae.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--turim91</id>
+    <titulo>Reserva Real   Palacio De Turim</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-reserva-real---palacio-de-turim</url>
+    <descricao>Oportunidade MRV: Reserva Real   Palacio De Turim. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_REA_PRIVATIVA_01.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rinhas92</id>
+    <titulo>Residencial Canto Das Andorinhas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>Jardim Regatas</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-residencial-canto-das-andorinhas</url>
+    <descricao>Oportunidade MRV: Residencial Canto Das Andorinhas. Localizado em Ribeirao Preto, bairro Jardim Regatas. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/upload/imagens/uploadImagesTEST/Breve%20Lan%C3%A7amento.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-este-293</id>
+    <titulo>Eparque Rio Preto Leste 2</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-2</url>
+    <descricao>Oportunidade MRV: Eparque Rio Preto Leste 2. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO-LESTE_PPC-FACHADA-ENTARDECER-02_04-09-2023.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-dulo-394</id>
+    <titulo>Eparque Rio Preto Leste Modulo 3</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-modulo-3</url>
+    <descricao>Oportunidade MRV: Eparque Rio Preto Leste Modulo 3. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Lançamento.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_EPARQUE-FACHADA-CASAS_2025-08-2938f7d769-93f3-4217-a2a3-0dbc2a3047b4.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-bardia95</id>
+    <titulo>Parque Lombardia</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Jose Do Rio Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Pronto para Morar</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-parque-lombardia</url>
+    <descricao>Oportunidade MRV: Parque Lombardia. Localizado em Sao Jose Do Rio Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Pronto para Morar.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4149/FACHADA_PQ-LOMBARDIA_RF1.JPG</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-oratta96</id>
+    <titulo>Reserva Floratta</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Bauru</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/lotes-reserva-floratta</url>
+    <descricao>Oportunidade MRV: Reserva Floratta. Localizado em Bauru, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F002_IMPLANTACAO3D-DRONEe6ab5709-2144-4fce-a425-24c6a474cfab.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-merica97</id>
+    <titulo>Residencial Vila America</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-residencial-vila-america</url>
+    <descricao>Oportunidade MRV: Residencial Vila America. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_PLAYGROUND.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-dunlop98</id>
+    <titulo>Smart Urba Dunlop</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-smart-urba-dunlop</url>
+    <descricao>Oportunidade MRV: Smart Urba Dunlop. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4583/SMARTURBA-DUNLOP-PPC-INSERCAO3f43a111-561a-43ff-8aad-ba9d72f60aa3.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rofeta99</id>
+    <titulo>Smart Urba Vila Profeta</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Campinas</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-smart-urba-vila-profeta</url>
+    <descricao>Oportunidade MRV: Smart Urba Vila Profeta. Localizado em Campinas, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-PISTADESKATE.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-te-mor100</id>
+    <titulo>Reserva Monte Mor</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Hortolandia</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/hortolandia/lotes-reserva-monte-mor</url>
+    <descricao>Oportunidade MRV: Reserva Monte Mor. Localizado em Hortolandia, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_ACESSOS_A22d77db4a-3140-4c6c-91a4-c7fb2001608f.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-raldas101</id>
+    <titulo>Smart Urba Esmeraldas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Marilia</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/marilia/lotes-smart-urba-esmeraldas</url>
+    <descricao>Oportunidade MRV: Smart Urba Esmeraldas. Localizado em Marilia, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F010_RESIDENCIAL193a2056-034d-47b6-9333-3d7e2d0e562a.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-rnando102</id>
+    <titulo>Alto Sao Fernando</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Paulinia</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/paulinia/lotes-alto-sao-fernando</url>
+    <descricao>Oportunidade MRV: Alto Sao Fernando. Localizado em Paulinia, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4581/URBAMAIS-EXTERNA-FACHADALOJAS.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-udente103</id>
+    <titulo>Bem Viver Prudente</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Presidente Prudente</cidade>
+    <estado>SP</estado>
+    <bairro>Valência 1</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/presidente-prudente/lotes-bem-viver-prudente</url>
+    <descricao>Oportunidade MRV: Bem Viver Prudente. Localizado em Presidente Prudente, bairro Valência 1. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4644/MINERVA-II_PE_PRACA02_2024_07_30b5c39449-34b8-47f5-ba97-130d02e8a6f1.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-acauba104</id>
+    <titulo>Reserva Macauba</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-reserva-macauba</url>
+    <descricao>Oportunidade MRV: Reserva Macauba. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4587/RESERVA-MACAUBA_PE_PRACA01_2018_05_24.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-egatas105</id>
+    <titulo>Reserva Regatas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-reserva-regatas</url>
+    <descricao>Oportunidade MRV: Reserva Regatas. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4586/URBAMAIS_REGATAS_LOTE2_PPC_PLAYGROUND.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-beirao106</id>
+    <titulo>Smart Urba Ribeirao</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Ribeirao Preto</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/lotes-smart-urba-ribeirao</url>
+    <descricao>Oportunidade MRV: Smart Urba Ribeirao. Localizado em Ribeirao Preto, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4763/DJI_20250421111039_0006_D620d4e5b-a361-4263-b97f-4311d9826730.jpeg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-gresso107</id>
+    <titulo>Residencial Progresso</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sao Carlos</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/lotes-residencial-progresso</url>
+    <descricao>Oportunidade MRV: Residencial Progresso. Localizado em Sao Carlos, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4580/URBA_SALVA_IMAGEM_AEREA.png</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV--roque108</id>
+    <titulo>Jardim Sao Roque</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Sorocaba</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/lotes-jardim-sao-roque</url>
+    <descricao>Oportunidade MRV: Jardim Sao Roque. Localizado em Sorocaba, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_AREAS_COMUNS_QUADRA_AREIA.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-eserva109</id>
+    <titulo>Smart Urba Reserva</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Votorantim</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/votorantim/lotes-smart-urba-reserva</url>
+    <descricao>Oportunidade MRV: Smart Urba Reserva. Localizado em Votorantim, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_PPC-AEREA.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-lojas110</id>
+    <titulo>Lojas</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Imoveis</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www2.mrv.com.br/imoveis/lojas</url>
+    <descricao>Oportunidade MRV: Lojas. Localizado em Imoveis, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+  <listing>
+    <id>MRV-terior111</id>
+    <titulo>Brasileiros No Exterior</titulo>
+    <tipo>Apartamento</tipo>
+    <preco>0</preco>
+    <cidade>Imoveis</cidade>
+    <estado>SP</estado>
+    <bairro>A Consultar</bairro>
+    <status>Em Obras</status>
+    <url>https://www2.mrv.com.br/imoveis/brasileiros-no-exterior</url>
+    <descricao>Oportunidade MRV: Brasileiros No Exterior. Localizado em Imoveis, bairro A Consultar. Apartamentos com 2 dormitórios. Status: Em Obras.</descricao>
+    <fotos>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+    </fotos>
+    <tipologias>
+      <tipologia>
+        <dormitorios>2</dormitorios>
+        <area>0</area>
+      </tipologia>
+    </tipologias>
+  </listing>
+</listings>
