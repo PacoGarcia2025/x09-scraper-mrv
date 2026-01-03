@@ -1,0 +1,38 @@
+name: Atualizacao Diaria X09
+
+on:
+  schedule:
+    # Roda todo dia as 05:00 da manhã (Horário de Brasília aprox.)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Baixar código
+      uses: actions/checkout@v3
+
+    - name: Instalar Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Instalar dependências
+      run: npm install
+
+    - name: 🤖 Rodar Robô MRV
+      timeout-minutes: 20
+      run: node index.js
+
+    - name: 📄 Gerar XML
+      run: node gerar_xml.js
+
+    - name: 💾 Salvar no GitHub
+      run: |
+        git config --global user.name 'Robo X09'
+        git config --global user.email 'robo@x09.com'
+        git add feed_mrv.xml
+        git commit -m "Update diario: $(date)" || echo "Sem mudanças"
+        git push

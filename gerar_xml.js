@@ -4,7 +4,6 @@ try {
     const rawData = fs.readFileSync('mrv_imoveis.json');
     const imoveis = JSON.parse(rawData);
 
-    // Função de limpeza
     const clean = (txt) => {
         if (!txt) return '';
         return txt.toString().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').trim();
@@ -14,36 +13,47 @@ try {
     xml += '<listings>\n';
 
     imoveis.forEach(imovel => {
-        // Ignora links inválidos
-        if (imovel.titulo === 'Sao Paulo' || !imovel.url) return;
+        if (!imovel.url) return;
 
         xml += '  <listing>\n';
         xml += `    <id>${clean(imovel.id)}</id>\n`;
         xml += `    <titulo>${clean(imovel.titulo)}</titulo>\n`;
-        xml += `    <tipo>Apartamento</tipo>\n`;
-        xml += `    <preco>0</preco>\n`; // Preço 0 = Sob Consulta
+        xml += `    <tipo>${clean(imovel.tipo)}</tipo>\n`;
+        xml += `    <preco>0</preco>\n`;
         
         xml += `    <cidade>${clean(imovel.cidade)}</cidade>\n`;
-        xml += `    <estado>SP</estado>\n`;
+        xml += `    <estado>${clean(imovel.estado)}</estado>\n`;
         xml += `    <bairro>${clean(imovel.bairro)}</bairro>\n`;
+        xml += `    <endereco>${clean(imovel.endereco)}</endereco>\n`;
         
         xml += `    <status>${clean(imovel.status)}</status>\n`;
         xml += `    <url>${clean(imovel.url)}</url>\n`;
         
-        // Descrição automática
-        const desc = `Oportunidade MRV: ${imovel.titulo}. Localizado em ${imovel.cidade}, bairro ${imovel.bairro}. Apartamentos com ${imovel.quartos} dormitórios. Status: ${imovel.status}.`;
+        // Descrição Inteligente
+        let desc = imovel.descricao;
+        if (!desc || desc.length < 10) {
+            desc = `Lançamento ${imovel.titulo} em ${imovel.cidade}. Apartamentos de ${imovel.area}m² com ${imovel.quartos} dormitórios.`;
+            if (imovel.bairro !== 'A Consultar') desc += ` Localizado no bairro ${imovel.bairro}.`;
+        }
+        if (imovel.diferenciais && imovel.diferenciais.length > 0) {
+            desc += ` Diferenciais: ${imovel.diferenciais.join(', ')}.`;
+        }
         xml += `    <descricao>${clean(desc)}</descricao>\n`;
         
-        // Lista de FOTOS
+        // Fotos
         xml += `    <fotos>\n`;
-        xml += `      <foto>${clean(imovel.imagem)}</foto>\n`;
+        if (imovel.fotos && imovel.fotos.length > 0) {
+            imovel.fotos.forEach(f => xml += `      <foto>${clean(f)}</foto>\n`);
+        } else {
+            xml += `      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>\n`;
+        }
         xml += `    </fotos>\n`;
         
-        // Lista de TIPOLOGIAS
+        // Tipologia
         xml += `    <tipologias>\n`;
         xml += `      <tipologia>\n`;
         xml += `        <dormitorios>${clean(imovel.quartos)}</dormitorios>\n`;
-        xml += `        <area>0</area>\n`;
+        xml += `        <area>${clean(imovel.area)}</area>\n`;
         xml += `      </tipologia>\n`;
         xml += `    </tipologias>\n`;
 
@@ -53,8 +63,8 @@ try {
     xml += '</listings>';
 
     fs.writeFileSync('feed_mrv.xml', xml);
-    console.log('✅ Arquivo "feed_mrv.xml" gerado no padrão X09!');
+    console.log('✅ XML Final Gerado!');
 
-} catch (erro) {
-    console.log('❌ Erro: ' + erro.message);
+} catch (e) {
+    console.log('❌ Erro: ' + e.message);
 }
