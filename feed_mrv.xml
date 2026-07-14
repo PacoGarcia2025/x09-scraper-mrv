@@ -98,20 +98,19 @@
     <preco>0</preco>
     <cidade>Bauru</cidade>
     <estado>SP</estado>
-    <bairro>Zona Sul</bairro>
-    <endereco>Avenida José Vicente Aiello, s/n (Zona Sul - Bauru/SP)</endereco>
+    <bairro>A Consultar</bairro>
+    <endereco>A Consultar</endereco>
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-das-brisas</url>
     <descricao>Prepare-se para viver um novo estilo de vida com mais conforto, lazer e praticidade. O Residencial Mirante das Brisas, mais novo lançamento da MRV no complexo Mirantes do Sul, chegou para transformar seus dias em experiências únicas.   Localizado no Parque das Nações, um dos bairros mais valorizados da zona sul de Bauru. você estará a poucos minutos da Av. Getúlio Vargas, com fácil acesso a shoppings, restaurantes, escolas, farmácias e uma ampla oferta de serviços e comércio. A região ainda conta com áreas verdes e parques, ideal para quem busca bem-estar e contato com a natureza, sem abrir mão da mobilidade urbana.   Aqui, você encontra apartamentos modernos de 2 quartos com ambientes integrados, vaga de garagem e opção de varanda com churrasqueira. Tudo pensado para o seu conforto e praticidade.   No condomínio fechado, o lazer é completo: piscinas adulto e infantil, quadra de beach tennis, espaço gourmet, salão de festas, pet place, horta, playground, espaço piquenique e muito mais. Além disso, o empreendimento conta com car wash, área de convivência e bicicletário, reforçando a praticidade e sustentabilidade que você merece.   O Mirante das Brisas é mais que um empreendimento. É o lugar ideal para você e sua família viverem com segurança, qualidade e tranquilidade. Seu novo apê com lazer de clube, localização privilegiada e o jeito MRV de viver. Você merece esse novo capítulo.</descricao>
     <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Horta,Quadra</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/A%C3%A9reas%20pendentes/Imagem_aerea_Mirante-das-Brisas.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
         <dormitorios>2</dormitorios>
-        <area>057.5</area>
+        <area>0</area>
       </tipologia>
     </tipologias>
   </listing>
@@ -288,7 +287,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-canto-das-andorinhas</url>
     <descricao>Confira este lançamento: Residencial Canto Das Andorinhas.</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
@@ -565,7 +564,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-vivenza</url>
     <descricao>Confira este lançamento: Residencial Vivenza.</descricao>
-    <features>Varanda,Playground,Salão de Festas,Academia,Coworking,Elevador</features>
+    <features>Varanda,Playground,Salão de Festas,Espaço Gourmet,Academia,Coworking,Elevador</features>
     <fotos>
       <foto>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/%20https://cdn.mrv.com.br/imoveis/imoveis/Selos/HIS+SP.webp%20</foto>
     </fotos>
@@ -680,9 +679,8 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-dos-tucanos</url>
     <descricao>Confira este lançamento: Residencial Poente Dos Tucanos.</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet</features>
+    <features>Churrasqueira,Piscina,Varanda,Playground,Espaço Gourmet</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/espaco-fogueira172e12fb-10b2-4f9e-9e74-527411d6332d.webp</foto>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/HIS+SP.webp</foto>
     </fotos>
     <tipologias>
@@ -727,7 +725,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canto-da-mata</url>
     <descricao>O Residencial Canto da Mata é o lugar ideal para quem busca conforto, praticidade e bem-estar. Localizado na Região do Matão, você estará perto de tudo que facilita o dia a dia: supermercados, escolas, farmácias, postos de gasolina e comércio em geral, além de acesso rápido às principais vias da cidade.   Aqui, você encontra apartamentos de 2 dormitórios, com ambientes integrados e projeto inteligente que valoriza cada metro quadrado. Um condomínio fechado que oferece a segurança que sua família merece, além de uma área de lazer completa para todos os momentos.   Relaxe nas piscinas adulto e infantil, comemore conquistas no salão de festas com copa, compartilhe receitas no espaço gourmet, deixe os pequenos se divertirem no playground, e aproveite o pet place com seu melhor amigo.   O Canto da Mata é mais do que um endereço: é o seu novo jeito de viver bem em Campinas.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/vitrine/MinhaCasaMinhaVidad6919e9e-2ba9-49d1-a9e5-d8d2b5d1f87b.webp</foto>
     </fotos>
@@ -773,7 +771,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-guilherme</url>
     <descricao>Confira este lançamento: Saint Guilherme.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Salão de Festas,Academia,Bicicletário,Coworking</features>
+    <features>Churrasqueira,Piscina,Piscina Adulto,Varanda,Salão de Festas,Academia,Coworking</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/HIS+SP.webp</foto>
     </fotos>
@@ -819,7 +817,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ipes</url>
     <descricao>Confira este lançamento: Residencial Ipes.</descricao>
-    <features>Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
+    <features>Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/MCMV+HMP+HIS+SP.webp</foto>
     </fotos>
@@ -888,7 +886,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-sensia-swiss-garden</url>
     <descricao>Confira este lançamento: Sensia Swiss Garden.</descricao>
-    <features>Churrasqueira,Piscina,Varanda,Salão de Festas,Espaço Gourmet,Academia,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Academia,Coworking,Quadra</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -1151,36 +1149,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-rtamentosgranfornari-50</id>
-    <titulo>Gran Fornari</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Jundiai</cidade>
-    <estado>SP</estado>
-    <bairro>Engordadouro</bairro>
-    <endereco>Avenida Professor Pedro Clarismundo Fornari, nâ 860 (Engordadouro - Jundiaí/SP)</endereco>
-    <status>Lançamento</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/jundiai/apartamentos-gran-fornari</url>
-    <descricao>Eleve seu estilo de vida ao morar no Gran Fornari, o seu próximo endereço no Engordadouro. Localizado em uma das regiões mais valorizadas de Jundiaí, este é o condomínio residencial perfeito para quem procura mais conforto e qualidade de vida. São apartamentos de 2 quartos com varanda e a opção de área privativa no térreo, além do conforto de possuir vaga de estacionamento coberta (opcional). A área de lazer é o ponto alto deste empreendimento: com tem pet place para os bichinhos, piscinas adulto e infantil, playground, salão de festas, churrasqueira e espaço gourmet para toda família. Para quem deseja relaxar, temos um espaço exclusivo com gazebo e redário. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com as melhores condições do Minha Casa Minha Vida!</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/GRANFORNARI_PPC_PORTARIA_FINAL_f70a5f84-0755-46ae-84a0-8a7cf9123c0f.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/GRANFORNARI_PH_APTO007_FINAL_1bafe8015-7756-497f-8600-301a89627c01.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/GRANFORNARI_PH_APTO1204_FINAL_2e22ec18-fb82-4ebe-b45b-0a38d09edf41.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/GRANFORNARI_PH_APTO1202_FINAL_16_09_20248ebf6e02-6af9-4936-bed0-00ec100a0433.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/GRANFORNARI_PH_IMPLANTA%C3%87O_FINA43888c48-9872-42d4-9ca2-3a42d0e55e16.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/845-20_gran_fornari_ima_aerea(1d7f0c634-5406-4989-8adb-709c74f44186.jpeg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4647/vitrine/SBPEdd30966e-2552-4223-8496-2bf6c8d75aed.webp</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>122.47</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-amentosgranprimavera-51</id>
+    <id>MRV-amentosgranprimavera-50</id>
     <titulo>Gran Primavera</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1191,7 +1160,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-gran-primavera</url>
     <descricao>O seu grande momento de vida chegou! Viva com mais qualidade de vida e tranquilidade no Gran Primavera, na região dos Olhos d´Água.</descricao>
-    <features>Piscina,Varanda,Salão de Festas,Espaço Gourmet,Academia,Quadra,Elevador</features>
+    <features>Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Academia,Bicicletário,Quadra,Elevador</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
@@ -1203,7 +1172,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-entosmirantedacolina-52</id>
+    <id>MRV-entosmirantedacolina-51</id>
     <titulo>Mirante Da Colina</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1226,7 +1195,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-amentospiazzadiviena-53</id>
+    <id>MRV-amentospiazzadiviena-52</id>
     <titulo>Piazza Di Viena</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1237,7 +1206,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-piazza-di-viena</url>
     <descricao>Confira este lançamento: Piazza Di Viena.</descricao>
-    <features>Piscina,Varanda,Playground,Salão de Festas</features>
+    <features>Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Horta</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
@@ -1249,30 +1218,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-alamedadasandorinhas-54</id>
-    <titulo>Residencial Alameda Das Andorinhas</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Sta Barbara Do Oeste</cidade>
-    <estado>SP</estado>
-    <bairro>Santa Rita</bairro>
-    <endereco>Estrada do barreirinho, s/n (Região do Santa Rita - Sta Bárbara do Oeste/SP)</endereco>
-    <status>Lançamento</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-alameda-das-andorinhas</url>
-    <descricao>O Residencial Alameda das Andorinhas, localizado na região do Santa Rita em Santa Bárbara d'Oeste, é o endereço ideal para quem busca conforto, segurança e qualidade de vida para toda a família. Aqui, você encontra um condomínio fechado pensado para proporcionar momentos especiais e muito lazer, tudo isso perto de uma infraestrutura completa de comércio que facilita o seu dia a dia.   Os apartamentos são de 2 quartos com varanda e opção de área privativa, e o empreendimento conta com elevador e lazer completo. Tem piscinas adulto e infantil, playground, pet place, espaço gourmet e salão de festas. São ambientes perfeitos para celebrar cada conquista e criar memórias inesquecíveis com quem você ama.   Mais que um lugar para morar, o Residencial Alameda das Andorinhas é o novo jeito MRV de viver, onde a tranquilidade e a praticidade caminham juntas para transformar o seu sonho em realidade.</descricao>
-    <features>Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Elevador</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/vitrine/CasaPaulista08e404d2-e13d-4cc2-82db-f2697a04601b.webp</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>46.74</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-osresidencialatlanta-55</id>
+    <id>MRV-osresidencialatlanta-53</id>
     <titulo>Residencial Atlanta</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1295,7 +1241,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidencialautenticita-56</id>
+    <id>MRV-sidencialautenticita-54</id>
     <titulo>Residencial Autenticita</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1306,7 +1252,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-autenticita</url>
     <descricao>O Residencial Autenticità é o novo lançamento da MRV em Santa Bárbara dOeste. Mais que um residencial, um conceito legítimo de moradia que une a segurança de um condomínio fechado com a qualidade de vida. Aqui você terá a estrutura perfeita para começar uma vida nova, seja a sós ou com sua família, pois o empreendimento oferece apartamentos de 2 dormitórios, opção de varanda ou área privativa para o térreo, uma área de lazer completa que mais parece um clube privativo e claro, vaga de garagem por apartamento para melhor comodidade. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com as melhores condições do Minha Casa Minha Vida!</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Academia</features>
+    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Academia,Elevador</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/vitrine/MinhaCasaMinhaVida4b806172-7b5f-443c-afaa-601bbd1617c4.webp</foto>
     </fotos>
@@ -1318,7 +1264,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-caminhodascerejeiras-57</id>
+    <id>MRV-caminhodascerejeiras-55</id>
     <titulo>Residencial Caminho Das Cerejeiras</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1341,7 +1287,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-minhodaspitangueiras-58</id>
+    <id>MRV-minhodaspitangueiras-56</id>
     <titulo>Residencial Caminho Das Pitangueiras</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1364,7 +1310,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ialcaminhodosjerivas-59</id>
+    <id>MRV-ialcaminhodosjerivas-57</id>
     <titulo>Residencial Caminho Dos Jerivas</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1387,7 +1333,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-residencialgreenpark-60</id>
+    <id>MRV-residencialgreenpark-58</id>
     <titulo>Residencial Green Park</titulo>
     <tipo>Casa</tipo>
     <preco>0</preco>
@@ -1409,7 +1355,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tosresidenciallunare-61</id>
+    <id>MRV-tosresidenciallunare-59</id>
     <titulo>Residencial Lunare</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1432,14 +1378,14 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ascentepicodosmarins-62</id>
+    <id>MRV-ascentepicodosmarins-60</id>
     <titulo>Residencial Nascente Pico Dos Marins</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
     <cidade>Sao Paulo</cidade>
     <estado>SP</estado>
-    <bairro>A Consultar</bairro>
-    <endereco>A Consultar</endereco>
+    <bairro>Região de Pirituba</bairro>
+    <endereco>Rua Igarapé Abelhas, s/n - Quadra U - Lote 1 (Região de Pirituba - São Paulo/SP)</endereco>
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-pico-dos-marins</url>
     <descricao>Confira este lançamento: Residencial Nascente Pico Dos Marins.</descricao>
@@ -1450,12 +1396,12 @@
     <tipologias>
       <tipologia>
         <dormitorios>2</dormitorios>
-        <area>0</area>
+        <area>399.77</area>
       </tipologia>
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-osresidencialolimpia-63</id>
+    <id>MRV-osresidencialolimpia-61</id>
     <titulo>Residencial Olimpia</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1478,7 +1424,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-cialpoenteflordemaio-64</id>
+    <id>MRV-cialpoenteflordemaio-62</id>
     <titulo>Residencial Poente Flor De Maio</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1501,7 +1447,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ntosresidencialtibre-65</id>
+    <id>MRV-ntosresidencialtibre-63</id>
     <titulo>Residencial Tibre</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1512,7 +1458,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tibre</url>
     <descricao>Mergulhe em uma nova vida com mais conforto, bem-estar e conveniência na região do Parque Paduan com o Residencial Tibre. Venha morar com a segurança de um condomínio fechado em apartamentos de 2 dormitórios com opção de varanda, lazer completo com piscinas adulto e infantil, espaço gourmet, salão de festas e muita praticidade para o seu dia a dia com 3 elevadores em cada torre. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com subsídio de até R$55 mil do programa Minha Casa Minha Vida!</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Elevador</features>
+    <features>Churrasqueira,Piscina,Piscina Adulto,Varanda,Salão de Festas,Espaço Gourmet,Elevador</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/vitrine/MinhaCasaMinhaVida29d897d5-5090-4714-b607-49ff4a549cdf.webp</foto>
     </fotos>
@@ -1524,7 +1470,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ntosresidencialtulle-66</id>
+    <id>MRV-ntosresidencialtulle-64</id>
     <titulo>Residencial Tulle</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1535,7 +1481,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tulle</url>
     <descricao>Confira este lançamento: Residencial Tulle.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Playground,Salão de Festas,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Bicicletário,Quadra,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
@@ -1547,7 +1493,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-osvistabelaresidence-67</id>
+    <id>MRV-osvistabelaresidence-65</id>
     <titulo>Vistabela Residence</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1558,7 +1504,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/vargem-grande-paulista/apartamentos-vistabela-residence</url>
     <descricao>Chegou a hora de sair do aluguel e conquistar a casa própria. No Vistabela Residence, você mora em um condomínio fechado com lazer de clube completo e segurança para toda a família. Um condomínio com apartamentos de 2 quartos com opções de varanda ou área privativa, em um bairro cercado por área verde. E melhor: com o Novo Minha Casa Minha Vida e Cheque Paulista você pode economizar até R$ 68 mil na conquista do seu novo apê.</descricao>
-    <features>Churrasqueira,Varanda,Espaço Gourmet</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
@@ -1570,7 +1516,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tamentoslifeterrazza-68</id>
+    <id>MRV-tamentoslifeterrazza-66</id>
     <titulo>Life Terrazza</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1593,7 +1539,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-alcaminhodosalecrins-69</id>
+    <id>MRV-alcaminhodosalecrins-67</id>
     <titulo>Residencial Caminho Dos Alecrins</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1616,7 +1562,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidenciallagodedavos-70</id>
+    <id>MRV-sidenciallagodedavos-68</id>
     <titulo>Residencial Lago De Davos</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1639,7 +1585,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-mentoscampodospampas-71</id>
+    <id>MRV-mentoscampodospampas-69</id>
     <titulo>Campo Dos Pampas</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1661,7 +1607,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-rtamentosgrandgarden-72</id>
+    <id>MRV-rtamentosgrandgarden-70</id>
     <titulo>Grand Garden</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1684,7 +1630,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ntosresidencialflora-73</id>
+    <id>MRV-ntosresidencialflora-71</id>
     <titulo>Residencial Flora</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1707,7 +1653,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-residencialvicentini-74</id>
+    <id>MRV-residencialvicentini-72</id>
     <titulo>Residencial Vicentini</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1730,7 +1676,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-amentossolardosalpes-75</id>
+    <id>MRV-amentossolardosalpes-73</id>
     <titulo>Solar Dos Alpes</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1752,7 +1698,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tamentosvaledaaurora-76</id>
+    <id>MRV-tamentosvaledaaurora-74</id>
     <titulo>Vale Da Aurora</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1775,18 +1721,17 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-casascaminhosdosypes-77</id>
-    <titulo>Caminhos Dos Ypes</titulo>
-    <tipo>Casa</tipo>
+    <id>MRV-entosvillagegalleria-75</id>
+    <titulo>Village Galleria</titulo>
+    <tipo>Apartamento</tipo>
     <preco>0</preco>
-    <cidade>Araraquara</cidade>
+    <cidade>Campinas</cidade>
     <estado>SP</estado>
-    <bairro>Iguatemi</bairro>
-    <endereco>A Consultar</endereco>
-    <status>Em Obras</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/casas-caminhos-dos-ypes</url>
-    <descricao>O sonho da casa própria com quintal e lazer completo agora é realidade em Araraquara! O Caminho dos Ypês é o primeiro condomínio de casas da MRV na cidade, trazendo o conforto, a liberdade e a privacidade que você sempre desejou, com toda a segurança de um condomínio fechado.   Localizado na valorizada região do Iguatemi, próximo a supermercados, escolas, farmácias e com fácil acesso às principais vias da cidade, o Caminho dos Ypês une praticidade e bem-estar em um só lugar.   As casas têm 2 quartos, quintal privativo e opção de duas vagas de garagem. Aqui você pode cultivar seu jardim, ter um pet com mais liberdade ou fazer aquele churrasco com os amigos no espaço que é só seu, dentro do condomínio fechado.   O lazer é completo e pensado para todas as idades: piscinas adulto e infantil para os dias de sol, playground para as crianças, pet place para seu melhor amigo, churrasqueira para os encontros em família e até quadra esportiva para se divertir e manter a saúde em dia.   Caminho dos Ypês é mais que um endereço: é um novo estilo de vida, com liberdade, segurança e qualidade em cada detalhe.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Playground,Quadra</features>
+    <bairro>Galleria</bairro>
+    <endereco>Avenida Antonio Jonas, nº34 (Região do Galleria - Campinas/SP)</endereco>
+    <status>Lançamento</status>
+    <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-village-galleria</url>
+    <descricao>Confira este lançamento: Village Galleria.</descricao>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -1798,7 +1743,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tamentoscitygalleria-78</id>
+    <id>MRV-tamentoscitygalleria-76</id>
     <titulo>City Galleria</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1821,7 +1766,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-amentoscostadosalpes-79</id>
+    <id>MRV-amentoscostadosalpes-77</id>
     <titulo>Costa Dos Alpes</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1832,7 +1777,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-costa-dos-alpes</url>
     <descricao>O Costa dos Alpes é o lugar ideal para quem busca praticidade, bem-estar e qualidade de vida em um só lugar.   Localizado na região do Jardim Paraíso de Viracopos, com fácil acesso pela Rodovia Santos Dumont, o empreendimento está perto de tudo que você precisa: supermercados, escolas e aeroporto, além de ter o Sesi, o Parque José Mingone e a Praça de Esportes Maria Rosa. Uma localização estratégica que garante mobilidade e comodidade no seu dia a dia.   Os apartamentos são de 2 dormitórios com varanda, perfeitos para apreciar uma vista privilegiada da cidade. Em torre única dois elevadores, o Costa dos Alpes proporciona mais privacidade e tranquilidade para você e sua família.   A área de lazer foi pensada para os seus melhores momentos: piscinas adulto e infantil, churrasqueira para suas confraternizações e espaços que garantem diversão e relaxamento sem sair de casa. Além disso, o condomínio fechado conta com bicicletário. Tudo isso com a segurança e qualidade que só a MRV oferece.   Costa dos Alpes: viva com mais conforto, mobilidade e lazer. A realização do seu sonho começa aqui!</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Bicicletário,Elevador</features>
+    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Bicicletário,Elevador,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_PISCINA_TARDE_R01371697f6-c44e-4c83-b3f5-12f32baf9752.jpg</foto>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES-PLANTA-APTO-205-RF.jpg</foto>
@@ -1851,7 +1796,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tamentosgrancampolim-80</id>
+    <id>MRV-tamentosgrancampolim-78</id>
     <titulo>Gran Campolim</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1862,7 +1807,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-gran-campolim</url>
     <descricao>O Gran Campolim é um lançamento incrível da MRV em um dos bairros mais valorizados de Sorocaba, o Parque Campolim, que une a tranquilidade de um condomínio fechado e a comodidade de uma localização privilegiada. Aqui, tudo foi pensado para oferecer uma experiência completa.   Os apartamentos de 2 quartos contam com suíte, varanda e opção de área privativa, além de ambientes integrados que favorecem o bem-estar e o aproveitamento inteligente dos espaços. Um verdadeiro convite para transformar o seu cotidiano em momentos de aconchego e praticidade.   A área de lazer completa proporciona encontros inesquecíveis com quem você ama: piscinas adulto e infantil, academia coberta, espaço kids, salão de festas, pet place e espaço gourmet. Para completar, o condomínio fechado ainda conta com bicicletário coberto, elevadores e opção de garagem coberta.   O Gran Campolim é perfeito para quem busca mais qualidade de vida, em um endereço que alia mobilidade, infraestrutura e muito mais para facilitar o seu dia a dia em Sorocaba.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Salão de Festas,Espaço Gourmet,Academia,Bicicletário,Elevador,Coleta Seletiva</features>
+    <features>Pet Place,Piscina,Varanda,Salão de Festas,Espaço Gourmet,Academia,Bicicletário,Elevador</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -1874,7 +1819,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sjardimmoradadoverde-81</id>
+    <id>MRV-sjardimmoradadoverde-79</id>
     <titulo>Jardim Morada Do Verde</titulo>
     <tipo>Casa</tipo>
     <preco>0</preco>
@@ -1897,7 +1842,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-mentosmontedoscedros-82</id>
+    <id>MRV-mentosmontedoscedros-80</id>
     <titulo>Monte Dos Cedros</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1920,7 +1865,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ospalaciodeestocolmo-83</id>
+    <id>MRV-ospalaciodeestocolmo-81</id>
     <titulo>Palacio De Estocolmo</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1943,7 +1888,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tamentospiazzasirena-84</id>
+    <id>MRV-tamentospiazzasirena-82</id>
     <titulo>Piazza Sirena</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1966,7 +1911,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tosreservadimedeiros-85</id>
+    <id>MRV-tosreservadimedeiros-83</id>
     <titulo>Reserva Di Medeiros</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -1977,7 +1922,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/jundiai/apartamentos-reserva-di-medeiros</url>
     <descricao>Projetados para valorizar seu investimento, o Reserva Di Medeiros oferece ambientes bem distribuídos e acabamentos de qualidade, tudo isso com as melhores condições de financiamento do mercado. Com apartamentos de 2 quartos, ele conta com varanda e oferece o equilíbrio perfeito entre funcionalidade e conforto, proporcionando mais espaço e liberdade para sua rotina. O condomínio garante tranquilidade e privacidade, com uma completa estrutura de lazer para toda a família. Espaços cuidadosamente planejados promovem bem-estar e convívio social, transformando o dia a dia em momentos especiais dentro do próprio lar.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Bicicletário,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/vitrine/SBPE80b75db7-e538-488c-a3c0-7cb3149f5d57.webp</foto>
     </fotos>
@@ -1989,7 +1934,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ntosreservadoslirios-86</id>
+    <id>MRV-ntosreservadoslirios-84</id>
     <titulo>Reserva Dos Lirios</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2012,30 +1957,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidencialbellasuecia-87</id>
-    <titulo>Residencial Bella Suecia</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Botucatu</cidade>
-    <estado>SP</estado>
-    <bairro>Jardim Cristina</bairro>
-    <endereco>Vicinal Alcides Soares BTC - 10 - Lote A1 (Região do Jardim Cristina - Botucatu/SP)</endereco>
-    <status>Em Obras</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/botucatu/apartamentos-residencial-bella-suecia</url>
-    <descricao>O Residencial Bella Suécia é o mis novo lançamento da MRV em Botucatu, na valorizada região do Jardim Cristina, com tudo o que você e sua família precisam para viver bem: localização estratégica, conforto e um lazer pensado para todos.   São apartamentos de 2 quartos em condomínio fechado, todos com vaga de garagem e projeto inteligente para aproveitar cada metro quadrado com funcionalidade. Ideal para quem busca o seu primeiro imóvel ou deseja mais praticidade no dia a dia.   Aqui, a diversão e o bem-estar também fazem parte da rotina: a área de lazer conta com playground, churrasqueira e pet place, além de um bicicletário que oferece praticidade para quem gosta de pedalar.   E o melhor: tudo isso com condições facilitadas e preços acessíveis, em uma localização que permite fácil acesso a supermercados, escolas, farmácias e outros serviços essenciais.   Bella Suécia: conforto, segurança e lazer para sua nova vida começar do jeito certo. Realize seu sonho com a confiança da MRV.</descricao>
-    <features>Churrasqueira,Pet Place,Playground,Bicicletário,Quadra</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/vitrine/MinhaCasaMinhaVida8c5fc72f-85ca-4f7b-8b87-7a04e530d159.webp</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>269.8</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-encialcampodiespanha-88</id>
+    <id>MRV-encialcampodiespanha-85</id>
     <titulo>Residencial Campo Di Espanha</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2046,7 +1968,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-campo-di-espanha</url>
     <descricao>Conquiste um apartamento que combina espaço, conforto e sofisticação no Residencial Campo di Espanha! Desenvolvido pela MRV, o empreendimento oferece apartamentos de 2 quartos com opção de varanda ou área privativa, perfeitos para quem busca mais qualidade de vida. Com acabamentos de alto padrão, cada detalhe foi pensado para proporcionar conforto e praticidade no dia a dia. A área de lazer do Campo di Espanha é um verdadeiro clube privativo! Um verdadeiro lazer de clube em casa, para você aproveitar e relaxar nas piscinas, adulto e infantil, com um no espaço fitness para você manter a forma e a saúde em dia ou, quem sabe, reunir amigos e familiares no espaço gourmet com churrasqueira. O condomínio também oferece um espaço com playground pra garotada se divertir e uma área de pet place para seu amiguinho de estimação aproveitar ao ar livre. Não perca esta oportunidade única. Garanta já o seu apartamento e viva o melhor da vida na região do Bosque dos Ipês.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Playground,Espaço Gourmet</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Coleta Seletiva</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/vitrine/SBPEac7502d8-d2bc-4a68-bebf-7a6e4cb3b48a.webp</foto>
     </fotos>
@@ -2058,7 +1980,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-idencialcasadeatenas-89</id>
+    <id>MRV-idencialcasadeatenas-86</id>
     <titulo>Residencial Casa De Atenas</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2081,7 +2003,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-residencialcelestial-90</id>
+    <id>MRV-residencialcelestial-87</id>
     <titulo>Residencial Celestial</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2110,14 +2032,14 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sresidencialcolorado-91</id>
+    <id>MRV-sresidencialcolorado-88</id>
     <titulo>Residencial Colorado</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
     <cidade>Campinas</cidade>
     <estado>SP</estado>
     <bairro>Jardim Yeda</bairro>
-    <endereco>Rua João Moreno, 31 (Região do Jardim Yeda - Campinas/SP)</endereco>
+    <endereco>A Consultar</endereco>
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-colorado</url>
     <descricao>Saia do aluguel e viva bem em Campinas, a hora de realizar o seu sonho do primeiro apê chegou! O Residencial Colorado tem tudo que você sempre buscou, apartamentos de 2 dormitórios em condomínio fechado com excelente localização no Jardim Yeda, que vai trazer toda a praticidade e conforto para a sua vida. Viva próximo a tudo que você precisa no dia a dia, com a comodidade de torres com elevador e a segurança de um condomínio fechado. E o melhor, os subsídios do programa do governo te ajudam a economizar muito dinheiro na hora de realizar esse sonho. Esse é o momento de comprar seu novo apê, seja para morar ou investir a MRV tem a opção certa para você. Conheça as condições especiais e facilidades do programa Minha casa minha vida e faça uma simulação.</descricao>
@@ -2130,17 +2052,16 @@
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESID%C3%8ANCIA-COLORADO-_PH-APTO-204-TORRE-01_29-11-2022.jpg</foto>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIAL-COLORADO_IMPLANTA%C3%87O_IMPRESSO_29-11-2022.jpg</foto>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/MN004522J-FOTO-AREA-RESIDENCIAL-COLORADO.webp</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/vitrine/CasaPaulistaaf3d5508-8710-442d-8260-bb66386e4b97.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
         <dormitorios>2</dormitorios>
-        <area>36.87</area>
+        <area>0</area>
       </tipologia>
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidencialdonpagliato-92</id>
+    <id>MRV-sidencialdonpagliato-89</id>
     <titulo>Residencial Don Pagliato</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2163,7 +2084,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidencialilhademalta-93</id>
+    <id>MRV-sidencialilhademalta-90</id>
     <titulo>Residencial Ilha De Malta</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2176,6 +2097,7 @@
     <descricao>A MRV está de volta a Itu com um empreendimento que vai renovar os seus planos de vida: o Residencial Ilha de Malta, um condomínio fechado na região do Madre Paulina, pensado para oferecer mais praticidade, segurança e qualidade de vida para você e sua família.   Aqui, você encontra apartamentos de 2 quartos com ambientes bem planejados, ideal para quem está em busca do primeiro imóvel e sair do aluguel com economia e estilo. Tudo isso com a segurança de um condomínio fechado.   A área de lazer é ideal para todas as idades: churrasqueira para os encontros especiais, playground para a diversão das crianças, quadra gramada para atividades ao ar livre e um pet place que garante diversão também para os seus animais de estimação, além de um bicicletário prático para quem adora se locomover de forma sustentável.   Com uma localização estratégica, o empreendimento está próximo a tudo que você precisa no dia a dia, como comércio, escolas e serviços essenciais.</descricao>
     <features>Churrasqueira,Pet Place,Playground,Bicicletário,Quadra</features>
     <fotos>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Medidordegua.jpg</foto>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/vitrine/MinhaCasaMinhaVida0fb8658d-f54e-48e4-b266-eccdfbc25273.webp</foto>
     </fotos>
     <tipologias>
@@ -2186,7 +2108,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-osresidencialmorumbi-94</id>
+    <id>MRV-osresidencialmorumbi-91</id>
     <titulo>Residencial Morumbi</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2209,30 +2131,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lnascentedojequitiba-95</id>
-    <titulo>Residencial Nascente Do Jequitiba</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Sao Paulo</cidade>
-    <estado>SP</estado>
-    <bairro>Região de Pirituba</bairro>
-    <endereco>Rua Onze, s/n (Região de Pirituba - São Paulo/SP)</endereco>
-    <status>Em Obras</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-do-jequitiba</url>
-    <descricao>Confira este lançamento: Residencial Nascente Do Jequitiba.</descricao>
-    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Bicicletário,Quadra,Elevador</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/imoveis/mcmv-his-cp.jpg</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>34.09</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-encialpiazzadimilano-96</id>
+    <id>MRV-encialpiazzadimilano-92</id>
     <titulo>Residencial Piazza Di Milano</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2255,7 +2154,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-alpoentedasbromelias-97</id>
+    <id>MRV-alpoentedasbromelias-93</id>
     <titulo>Residencial Poente Das Bromelias</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2278,30 +2177,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-alpoentedasorquideas-98</id>
-    <titulo>Residencial Poente Das Orquideas</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Sao Paulo</cidade>
-    <estado>SP</estado>
-    <bairro>Região de Pirituba</bairro>
-    <endereco>Rua 12, Quadra X - Lote 01 ao 23 (Região de Pirituba - São Paulo/SP)</endereco>
-    <status>Em Obras</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-orquideas</url>
-    <descricao>Confira este lançamento: Residencial Poente Das Orquideas.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Elevador,Coleta Seletiva</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/HIS+SP.webp</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>35.87</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-osresidencialriviera-99</id>
+    <id>MRV-osresidencialriviera-94</id>
     <titulo>Residencial Riviera</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2312,7 +2188,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-riviera</url>
     <descricao>Viver em um apartamento de 2 dormitórios com opção de área privativa e uma localização incrível em Ribeirão Preto agora está ao seu alcance! No Residencial Riviera, você realiza o sonho de viver bem no Eugênio Lopes, com fácil acesso ao Centro. A área de lazer é incrível, com piscina, churrasqueira, garrafão de basquete e muito mais. É a qualidade de vida que você sempre quis, tudo no seu condomínio fechado com vaga de garagem e por um preço que cabe no seu bolso. E você pode realizar esse sonho com excelentes condições de pagamento e economizando muito com o Minha Casa Minha Vida. É a oportunidade perfeita para sair do aluguel e conquistar seu próprio apê com a MRV!</descricao>
-    <features>Churrasqueira,Piscina</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Playground,Bicicletário</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/vitrine/MinhaCasaMinhaVidae9515ecd-f332-4cdf-af90-c37780d6aedc.webp</foto>
     </fotos>
@@ -2324,7 +2200,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sresidencialscarpone-100</id>
+    <id>MRV-sresidencialscarpone-95</id>
     <titulo>Residencial Scarpone</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2347,7 +2223,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sidencialsolardailha-101</id>
+    <id>MRV-sidencialsolardailha-96</id>
     <titulo>Residencial Solar Da Ilha</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2370,7 +2246,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-alsolardoseucaliptos-102</id>
+    <id>MRV-alsolardoseucaliptos-97</id>
     <titulo>Residencial Solar Dos Eucaliptos</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2393,7 +2269,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-partamentossanmiller-103</id>
+    <id>MRV-partamentossanmiller-98</id>
     <titulo>San Miller</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2404,7 +2280,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-miller</url>
     <descricao>Confira este lançamento: San Miller.</descricao>
-    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Bicicletário,Elevador</features>
+    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Bicicletário</features>
     <fotos>
       <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/MCMV+HMP+HIS+SP.webp</foto>
     </fotos>
@@ -2416,14 +2292,14 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-mentosterrazodidante-104</id>
+    <id>MRV-mentosterrazodidante-99</id>
     <titulo>Terrazo Di Dante</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
     <cidade>Sao Jose Dos Campos</cidade>
     <estado>SP</estado>
-    <bairro>Parque Industrial</bairro>
-    <endereco>Rua José Cobra, 251 (Parque Industrial - São José dos Campos/SP)</endereco>
+    <bairro>A Consultar</bairro>
+    <endereco>A Consultar</endereco>
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-terrazo-di-dante</url>
     <descricao>O Terrazo di Dante traz um novo padrão de vida para o Parque Industrial, sendo o primeiro Linha Class da MRV de São José dos Campos. Com imponentes torres com quatro elevadores em cada, o empreendimento oferece apartamentos de 2 quartos, todos com suíte e varanda gourmet, trazendo privacidade, luz natural e aquele toque especial para o seu dia a dia.   O lazer completo é pensado para momentos inesquecíveis com a família: piscinas adulto e infantil, quadra esportiva, espaço gourmet, salão de festas, salão de jogos, playground, espaço kids, pet place, churrasqueira e academia coberta, tudo para garantir diversão e bem-estar sem sair de casa. Além disso, o condomínio conta com bicicletário coberto e um espaço exclusivo de coworking, ideal para quem busca conciliar trabalho e conforto na segurança de um condomínio fechado.   Localizado no Parque Industrial, o Terrazo di Dante oferece praticidade e fácil acesso às principais vias e serviços da região, tornando sua rotina mais leve e funcional. Aqui, cada detalhe foi pensado para que você viva com exclusividade, conforto e a qualidade que só a MRV pode entregar.</descricao>
@@ -2434,12 +2310,12 @@
     <tipologias>
       <tipologia>
         <dormitorios>2</dormitorios>
-        <area>132.21</area>
+        <area>0</area>
       </tipologia>
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sterrazovillaaugusta-105</id>
+    <id>MRV-sterrazovillaaugusta-100</id>
     <titulo>Terrazo Villa Augusta</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2462,7 +2338,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-encialcamposdourados-106</id>
+    <id>MRV-encialcamposdourados-101</id>
     <titulo>Vale Do Sereno   Residencial Campos Dourados</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2485,7 +2361,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-noresidencialveredas-107</id>
+    <id>MRV-noresidencialveredas-102</id>
     <titulo>Vale Do Sereno   Residencial Veredas</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2508,7 +2384,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-sereservadasamarilis-108</id>
+    <id>MRV-sereservadasamarilis-103</id>
     <titulo>Reserva Sao Jose   Reserva Das Amarilis</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2531,59 +2407,30 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ntosresidencialagata-109</id>
-    <titulo>Residencial Agata</titulo>
-    <tipo>Apartamento</tipo>
-    <preco>0</preco>
-    <cidade>Araraquara</cidade>
-    <estado>SP</estado>
-    <bairro>Antiga Avenida Dr. Miguel Couto, 832</bairro>
-    <endereco>Av. Agostinho Pereira da Silva, 443 (Antiga Avenida Dr. Miguel Couto, 832) (Região do Imperador - Araraquara/SP)</endereco>
-    <status>Em Obras</status>
-    <url>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-agata</url>
-    <descricao>Chegou o momento de conquistar o que é seu! No Residencial Ágata, da MRV, você vai viver em um lugar pensado para unir conforto, segurança e qualidade de vida, com a vista que você merece.   Localizado na Região do Imperador, um dos bairros mais completos de Araraquara, o Ágata oferece tudo o que sua família precisa no dia a dia: acesso rápido a comércio, serviços, escolas e mobilidade para toda a cidade.   Aqui, cada detalhe foi planejado para transformar o seu modo de viver. Apartamentos de 2 quartos com opção de varanda com churrasqueira, todos com vaga de garagem e em torres com elevador, perfeitos para quem valoriza praticidade, conforto e um visual encantador todos os dias.   O lazer é completo e encantador: piscinas adulto e infantil, espaço gourmet, pet place, salão de festas e muito mais. Além disso, o condomínio fechado conta com pomar, bicicletário e sistemas modernos de segurança, além de acabamento diferenciado com piso laminado na sala e quartos (exceto térreo) e portas especiais.   Residencial Ágata é mais que um apartamento. É o novo jeito MRV de viver com tudo que você sempre sonhou.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Salão de Festas,Espaço Gourmet,Bicicletário,Pomar,Elevador</features>
-    <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_PISCINA.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_101-RF.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_110-RF.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_201-RF.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_210-RF.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_IMPLANTACAO-RF.JPG</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/20211025111115_AQ000721P_FOTO_INSERCAO_RES.webp</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/vitrine/CasaPaulistaf7ac9605-3733-4102-a98b-b603de246b73.webp</foto>
-    </fotos>
-    <tipologias>
-      <tipologia>
-        <dormitorios>2</dormitorios>
-        <area>031.25</area>
-      </tipologia>
-    </tipologias>
-  </listing>
-  <listing>
-    <id>MRV-sresidencialamaranto-110</id>
+    <id>MRV-sresidencialamaranto-104</id>
     <titulo>Residencial Amaranto</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
     <cidade>Aracatuba</cidade>
     <estado>SP</estado>
-    <bairro>A Consultar</bairro>
-    <endereco>A Consultar</endereco>
+    <bairro>bairro TV</bairro>
+    <endereco>Rua Noel Rosa, 719 (Região do bairro TV - Araçatuba/SP)</endereco>
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-amaranto</url>
-    <descricao>Confira este lançamento: Residencial Amaranto.</descricao>
+    <descricao>Residencial Amaranto. A oportunidade de transformar a qualidade de vida da sua família, está aqui com a MRV. Os apartamentos em Araçatuba foram projetados para oferecer tudo o que você sempre sonhou em um só lugar. Apartamentos de 2 dormitórios na Região do bairro TV, em condomínio fechado, todos com vaga de garagem. Segurança, tranquilidade, conforto e área de lazer para a diversão da sua família em qualquer momento. Esse é o momento de comprar seu novo apê, seja para morar ou investir a MRV tem a opção certa para você. Conheça as condições especiais e facilidades do programa Minha Casa Minha Vida e faça uma simulação.</descricao>
+    <features>Churrasqueira,Pet Place,Playground</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/vitrine/MinhaCasaMinhaVida3e1ce367-0110-4e52-abfd-11ac1c2f7f3b.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
         <dormitorios>2</dormitorios>
-        <area>0</area>
+        <area>39.3</area>
       </tipologia>
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-entosresidencialares-111</id>
+    <id>MRV-entosresidencialares-105</id>
     <titulo>Residencial Ares</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2606,7 +2453,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-mentossensiabotanico-112</id>
+    <id>MRV-mentossensiabotanico-106</id>
     <titulo>Sensia Botanico</titulo>
     <tipo>Apartamento</tipo>
     <preco>0</preco>
@@ -2617,7 +2464,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-sensia-botanico</url>
     <descricao>Confira este lançamento: Sensia Botanico.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Academia,Coworking,Quadra,Coleta Seletiva</features>
+    <features>Churrasqueira,Pet Place,Piscina,Varanda,Academia,Coworking,Quadra</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -2629,14 +2476,14 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lotesaltosaofernando-113</id>
+    <id>MRV-lotesaltosaofernando-107</id>
     <titulo>Alto Sao Fernando</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
     <cidade>Paulinia</cidade>
     <estado>SP</estado>
-    <bairro>Saltinho</bairro>
-    <endereco>Estrada Municipal PLN, 313 (Saltinho - Paulínia/SP)</endereco>
+    <bairro>A Consultar</bairro>
+    <endereco>A Consultar</endereco>
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/paulinia/lotes-alto-sao-fernando</url>
     <descricao>A realização de seu maior sonho começa aqui! Conheça o mais novo loteamento planejado Urba, o Alto São Fernando. Aproveite esta novidade e faça o seu cadastro para receber mais informações sobre o financiamento deste lote à venda da Urba em Saltinho, em Paulínia/SP!</descricao>
@@ -2651,7 +2498,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-otesbemviverprudente-114</id>
+    <id>MRV-otesbemviverprudente-108</id>
     <titulo>Bem Viver Prudente</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2673,7 +2520,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lotesjardimsaoroque-115</id>
+    <id>MRV-lotesjardimsaoroque-109</id>
     <titulo>Jardim Sao Roque</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2695,7 +2542,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lotesreservamacauba-116</id>
+    <id>MRV-lotesreservamacauba-110</id>
     <titulo>Reserva Macauba</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2717,7 +2564,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lotesreservamontemor-117</id>
+    <id>MRV-lotesreservamontemor-111</id>
     <titulo>Reserva Monte Mor</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2740,7 +2587,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-lotesreservaregatas-118</id>
+    <id>MRV-lotesreservaregatas-112</id>
     <titulo>Reserva Regatas</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2762,7 +2609,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-residencialprogresso-119</id>
+    <id>MRV-residencialprogresso-113</id>
     <titulo>Residencial Progresso</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2784,7 +2631,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-ssmarturbaesmeraldas-120</id>
+    <id>MRV-ssmarturbaesmeraldas-114</id>
     <titulo>Smart Urba Esmeraldas</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2807,7 +2654,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-otessmarturbareserva-121</id>
+    <id>MRV-otessmarturbareserva-115</id>
     <titulo>Smart Urba Reserva</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
@@ -2829,7 +2676,7 @@
     </tipologias>
   </listing>
   <listing>
-    <id>MRV-tessmarturbaribeirao-122</id>
+    <id>MRV-tessmarturbaribeirao-116</id>
     <titulo>Smart Urba Ribeirao</titulo>
     <tipo>Lote</tipo>
     <preco>0</preco>
