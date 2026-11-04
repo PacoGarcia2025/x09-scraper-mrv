@@ -359,7 +359,7 @@
     <descricao>Um condomínio fechado que oferece toda estrutura e segurança que você procura. No Benissa Residencial você encontrará apartamentos de 2 dormitórios com opção de varanda ou com opção de área privativa para as unidades do térreo. Além disso, o condomínio também vai oferecer aos seus moradores ampla área de lazer para toda família com: espaço com playground, pet place, bicicletário para quem usa como meio de transporte e poder guardar sua bike e completando os espaços de convivência, uma churrasqueira para receber amigos ou realizar almoços em família. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com subsídio de até R$55 mil do programa Minha Casa Minha Vida!</descricao>
     <features>Churrasqueira,Pet Place,Varanda,Playground,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/vitrine/MinhaCasaMinhaVidae424fd43-ecba-4e59-aa94-604b4c3c3735.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -656,10 +656,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-dos-tucanos</url>
     <descricao>Confira este lançamento: Residencial Poente Dos Tucanos.</descricao>
-    <features>Churrasqueira,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
+    <features>Churrasqueira,Piscina,Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/espaco-fogueira172e12fb-10b2-4f9e-9e74-527411d6332d.webp</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/HIS+SP.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -680,9 +679,9 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-spazio-saint-francis</url>
     <descricao>Confira este lançamento: Spazio Saint Francis.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Playground,Salão de Festas,Bicicletário,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -772,9 +771,9 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ipes</url>
     <descricao>Confira este lançamento: Residencial Ipes.</descricao>
-    <features>Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
+    <features>Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/MCMV+HMP+HIS+SP.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -841,9 +840,9 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-estoril</url>
     <descricao>Confira este lançamento: Residencial Estoril.</descricao>
-    <features>Churrasqueira,Pet Place,Varanda,Salão de Festas,Academia,Quadra,Elevador</features>
+    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Academia,Bicicletário,Quadra,Elevador</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/MCMV+HIS+SP.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -1351,7 +1350,7 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-das-borboletas</url>
     <descricao>Confira este lançamento: Residencial Nascente Das Borboletas.</descricao>
-    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
+    <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Quadra,Elevador</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -1512,9 +1511,9 @@
     <status>Lançamento</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/vargem-grande-paulista/apartamentos-vistabela-residence</url>
     <descricao>Chegou a hora de sair do aluguel e conquistar a casa própria. No Vistabela Residence, você mora em um condomínio fechado com lazer de clube completo e segurança para toda a família. Um condomínio com apartamentos de 2 quartos com opções de varanda ou área privativa, em um bairro cercado por área verde. E melhor: com o Novo Minha Casa Minha Vida e Cheque Paulista você pode economizar até R$ 68 mil na conquista do seu novo apê.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Espaço Gourmet,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -1741,9 +1740,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-do-vale</url>
     <descricao>O Mirante do Vale, integrante do complexo Mirantes do Sul, é muito mais do que um lugar para morar: é um convite para viver com mais qualidade, tranquilidade e bem-estar. Localizado ao lado do condomínio residencial Vila Lobos e do Bauru Tênis Clube, você estará cercado por uma infraestrutura completa, com farmácias, escolas, padarias, bancos, comércio e serviços que facilitam sua rotina todos os dias.   Aqui você encontra apartamentos de 2 quartos com opção de varanda e área privativa, ideais para quem gosta de aproveitar a vista ou um espaço extra ao ar livre.   E o lazer é completo: piscinas adulto e infantil, quadra gramada, playground, salão de festas, gazebo e pet place para curtir com seu melhor amigo. Tudo isso dentro do condomínio fechado, que ainda conta com bicicletário e pomar, que trazem ainda mais praticidade e contato com a natureza ao seu dia a dia.   Seja bem-vindo a uma nova fase da sua vida. Mirante do Vale: sua conquista com a qualidade MRV, do jeito que você merece viver.</descricao>
-    <features>Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Bicicletário,Pomar,Quadra,Coleta Seletiva</features>
+    <features>Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Bicicletário,Pomar,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/vitrine/MinhaCasaMinhaVida8a4ed5ff-d199-446c-8681-4850de4ac3e1.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -1812,7 +1811,7 @@
     <descricao>O Residencial Piazza Sirena traz para Piracicaba, na região de Piracicamirim, a oportunidade de viver com conforto, segurança e contato direto com a natureza.   Imagine morar em um apartamento de 2 quartos em um condomínio fechado, com uma vista especial para o Rio Piracicaba e a região de Santa Terezinha, um lugar com alto potencial de crescimento e valorização.   Aqui, seu apê será um refúgio para os momentos em família, onde a área de lazer para todas as idades, com playground para as crianças e um pet place para seu melhor amigo. Além disso, o bicicletário garante praticidade para quem gosta de pedalar.   Piazza Sirena: seu novo capítulo começa com tranquilidade, segurança e qualidade de vida.</descricao>
     <features>Pet Place,Playground,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/vitrine/MinhaCasaMinhaVidad4381f0d-6889-4862-82d0-77aa39366210.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -1879,9 +1878,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-atlanta</url>
     <descricao>O Residencial Atlanta nasce como uma nova definição de moradia que ultrapassa as fronteiras do lugar comum e traz para a região do Petit-Trianon um verdadeiro tributo à inovação, diversidade e a uma nova vida com muito mais bem-estar e comodidade. Venha viver sua nova vida em apês 2 dormitórios com opção de área privativa, uma vaga de garagem por apartamento e lazer completo. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com as melhores condições do Minha Casa Minha Vida!</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Playground,Bicicletário,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Playground,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4654/vitrine/CasaPaulistaaf5bf9cd-149d-40be-a721-e89ee6974fe5.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -1925,9 +1924,12 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-residencial-belgrano</url>
     <descricao>Confira este lançamento: Residencial Belgrano.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Playground,Bicicletário,Quadra,Elevador</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Revestimento.webp</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Tanqueema%C3%A7oinox.webp</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/VarandagourmetSacadacomchurrasqueira.webp</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/vitrine/SBPEd305058e-005b-4f46-8e45-c369643a7d13.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2087,9 +2089,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-di-milano</url>
     <descricao>O Residencial Piazza Di Milano, na Vila Industrial de Piracicaba, foi pensado para transformar a vida da sua família com conforto, segurança e lazer completo.   Aqui você encontra apartamentos de 1 e 2 quartos com varanda e vaga de garagem, em um condomínio fechado com elevador e infraestrutura moderna, incluindo vaga para carro elétrico. Um projeto que oferece tranquilidade e bem-estar para você e quem você ama.   Aqui, o lazer é completo: piscinas adulto e infantil, playground, espaço gourmet, salão de festas, salão de jogos e espaço kids são apenas algumas das opções que vão tornar seu dia a dia mais divertido e especial.   Venha viver no Piazza Di Milano e aproveite o melhor da Vila Industrial, com acesso fácil a tudo o que você precisa para o seu dia a dia.</descricao>
-    <features>Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra,Elevador</features>
+    <features>Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/vitrine/CasaPaulista365e41aa-9c85-4f47-a4e9-f62817d8163b.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2133,9 +2135,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-riviera</url>
     <descricao>Viver em um apartamento de 2 dormitórios com opção de área privativa e uma localização incrível em Ribeirão Preto agora está ao seu alcance! No Residencial Riviera, você realiza o sonho de viver bem no Eugênio Lopes, com fácil acesso ao Centro. A área de lazer é incrível, com piscina, churrasqueira, garrafão de basquete e muito mais. É a qualidade de vida que você sempre quis, tudo no seu condomínio fechado com vaga de garagem e por um preço que cabe no seu bolso. E você pode realizar esse sonho com excelentes condições de pagamento e economizando muito com o Minha Casa Minha Vida. É a oportunidade perfeita para sair do aluguel e conquistar seu próprio apê com a MRV!</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Playground,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Playground,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/vitrine/MinhaCasaMinhaVidae9515ecd-f332-4cdf-af90-c37780d6aedc.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2156,9 +2158,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-scarpone</url>
     <descricao>Harmonia entre conforto e conveniência em um só lugar, no Residencial Scarpone! Este empreendimento foi cuidadosamente planejado para proporcionar mais segurança e praticidade, garantindo que você viva os melhores dias da sua vida. São apartamentos de 2 dormitórios com acabamento em piso laminado, opção de varada, e acabamentos em granito ecológico na cozinha e banheiro, que facilitarão a limpeza no dia a dia. Já a área de lazer convida você para um descanso da rotina, oferecendo amplo espaço gourmet, playground e o pet place para garantir a diversão para as crianças e seu melhor amigo. E claro, não poderia faltar um bicicletário, um lembrete para se manter sempre em movimento. Faça a diferença na sua vida e realize hoje mesmo o sonho de morar num apartamento da MRV com as melhores condições do Minha Casa Minha Vida!</descricao>
-    <features>Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
+    <features>Pet Place,Piscina,Piscina Adulto,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/vitrine/MinhaCasaMinhaVida92531931-fd6a-4301-8f36-d6187435811e.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2204,7 +2206,7 @@
     <descricao>Confira este lançamento: San Miller.</descricao>
     <features>Churrasqueira,Pet Place,Varanda,Playground,Salão de Festas,Bicicletário,Quadra,Elevador</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/imoveis/Selos/MCMV+HMP+HIS+SP.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2248,7 +2250,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/guarulhos/apartamentos-terrazo-villa-augusta</url>
     <descricao>Descubra um novo patamar de conforto e sofisticação no Terrazo Villa Augusta, o primeiro Class da MRV em Guarulhos. Um projeto exclusivo, pensado para proporcionar uma experiência única de morar bem.   Localizado em uma das regiões mais valorizadas da cidade, com infraestrutura comercial completa e fácil acesso a diversas vias e serviços, o Terrazo Villa Augusta une conveniência e qualidade de vida no seu dia a dia. Tudo isso com apartamentos de 2 dormitórios com suíte, varanda e opção de área privativa, projetados para oferecer o máximo de conforto, privacidade e funcionalidade.   Aqui, você vive momentos inesquecíveis em uma área de lazer premium, com piscinas adulto e infantil, salão de jogos, salão de festas, espaço gourmet, academia coberta, playground, espaço kids, pet place e quadra esportiva.   Com design inteligente e áreas integradas, os apartamentos foram projetados para oferecer o máximo de conforto, privacidade e funcionalidade.   Terrazo Villa Augusta: um novo jeito de viver em Guarulhos. Mais espaço, mais lazer, mais comodidade  e tudo isso esperando por você.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Playground,Salão de Festas,Espaço Gourmet,Academia,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Academia,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
@@ -2294,9 +2296,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-veredas</url>
     <descricao>No Vale do Sereno, uma das regiões que mais crescem em Sorocaba, surge o Residencial Veredas, mais novo lançamento no Vale do Sereno, o maior bairro planejado da MRV na cidade, com infraestrutura moderna e tudo o que você precisa para viver com mais tranquilidade e mobilidade.   Com mais de R$ 20 milhões em investimentos em obras viárias, como a nova Rua José Ricieri Orlandi, que conecta a Zona Oeste à Zona Norte, a região ganha ainda mais valorização e acessibilidade. O bairro também se destaca pelo paisagismo exuberante, ciclovias e pistas de caminhada, promovendo um estilo de vida saudável e conectado à natureza.   Os apartamentos do Residencial Veredas foram planejados para atender todas as necessidades da sua família: são 2 quartos com varanda ou área privativa nas unidades do térreo, além de opção de suíte. Além disso, o empreendimento oferece uma área de lazer completa com piscinas adulto e infantil, pet place, espaço gourmet, playground, salão de festas e garrafão de basquete, garantindo momentos de diversão e descanso com a segurança de um condomínio fechado.   Morar no Vale do Sereno é ter tudo à disposição: supermercados, escolas, comércio variado e acesso facilitado a diversas regiões da cidade. Tudo isso com a segurança, conforto e qualidade que só a MRV pode oferecer.</descricao>
-    <features>Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
+    <features>Pet Place,Piscina,Varanda,Playground,Salão de Festas,Espaço Gourmet,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/vitrine/MinhaCasaMinhaVida5f720e04-c78e-4068-89ff-530ecbcc10da.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2363,9 +2365,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-sao-jose---reserva-das-amarilis</url>
     <descricao>A MRV apresenta um projeto incrível, o complexo de apartamentos, Reserva São José. Os apartamentos da Reserva das Amarílis em Ribeirão Preto foram projetados para transformar o seu mundo, trazendo a qualidade de vida que você merece. Apartamentos de 2 dormitórios em condomínio fechado na Recreio das Acácias, com elevador, todos com vaga de garagem e opção de varanda. Toda tranquilidade, segurança, conforto e lazer completo para completar a diversão da sua família sem sair de casa.  Esse é o momento de comprar seu novo apê, seja para morar ou investir a MRV tem a opção certa para você. Conheça as condições especiais e facilidades do programa Minha casa minha vida e faça uma simulação.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Salão de Festas,Espaço Gourmet,Quadra,Elevador</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Salão de Festas,Espaço Gourmet,Bicicletário,Quadra,Elevador,Coleta Seletiva</features>
     <fotos>
-      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
+      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/vitrine/SBPE1fb93493-763f-47a5-bc01-e4f572f10816.webp</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2434,7 +2436,7 @@
     <descricao>Liberte-se do peso de pagar aluguel! Viva a vida com mais liberdade e independência no Residencial Morumbi.</descricao>
     <features>Churrasqueira,Playground,Espaço Gourmet,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/vitrine/CasaPaulista187e5258-b25c-4a8c-81a5-a5bcbba8d056.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2455,10 +2457,9 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/votorantim/apartamentos-residencial-solar-da-ilha</url>
     <descricao>Situado na valorizada região do Parque Jataí, o Residencial Solar da Ilha é a oportunidade perfeita para quem deseja conquistar o sonho da casa própria e deixar o aluguel para trás. Com uma localização estratégica em Votorantim, o empreendimento fica próximo a comércios essenciais, como o Supermercado Malucho, bancos, padarias, além de escolas e unidades de saúde, facilitando o seu dia a dia com tudo o que você precisa por perto.   Os apartamentos de 2 quartos com opção de área privativa foram pensados para oferecer o máximo de conforto e funcionalidade para sua rotina, e a segurança de um condomínio fechado traz tranquilidade para você viver momentos de paz e felicidade.   O Residencial Solar da Ilha também conta com área de lazer com bicicletário, gazebo, pet place e playground, oferecendo diversão e qualidade de vida para todas as idades.   Aqui, você tem a combinação perfeita entre localização, conforto e segurança para transformar a sua vida e da sua família, aproveitando cada dia com mais liberdade e alegria.</descricao>
-    <features>Pet Place,Playground,Bicicletário,Quadra,Coleta Seletiva</features>
+    <features>Pet Place,Playground,Bicicletário,Quadra</features>
     <fotos>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Medidordegua.jpg</foto>
-      <foto>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/vitrine/MinhaCasaMinhaVida3c7be6ba-23bb-41d4-817c-7cca190a475e.webp</foto>
+      <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
     <tipologias>
       <tipologia>
@@ -2479,7 +2480,7 @@
     <status>Em Obras</status>
     <url>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-sensia-botanico</url>
     <descricao>Confira este lançamento: Sensia Botanico.</descricao>
-    <features>Churrasqueira,Pet Place,Piscina,Varanda,Espaço Gourmet,Academia,Coworking,Quadra</features>
+    <features>Churrasqueira,Pet Place,Piscina,Piscina Adulto,Piscina Infantil,Varanda,Playground,Espaço Gourmet,Academia,Coworking,Quadra,Coleta Seletiva</features>
     <fotos>
       <foto>https://www.mrv.com.br/content/dam/mrv/placeholders/placeholder-imovel.jpg</foto>
     </fotos>
